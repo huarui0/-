@@ -8,13 +8,13 @@
            <li>
                <details>
                   <summary>
-                      ✨ Homebrew 安装 Gradle
+                      ✨ reserve
                   </summary>
                   <ul>
                       <li>
                           <details>
                              <summary>
-                                🔸 Homebrew官网参考：Gradle
+                                🔸 -
                              </summary>
                              <ul>
                                  <li> ✨ 主要参考文档 👉 <a href="https://formulae.brew.sh/formula/gradle">Homebrew Formulae：gradle</a>
@@ -30,9 +30,6 @@
                              <ul>
                                  <li> ✨ Gradle官方的安装方法 👉 <a href="https://gradle.org/install/">Gradle Build Tool：Installation 🔹 Installing with a package manager ➡️ Homebrew is “the missing package manager for macOS”.</a>
                                  </li>
-                                 <li> ✨ 简单的安装方法 👉 <a href="https://kotlinworld.com/312">Mac에서 Gradle 설치하기</a>
-                                 </li>
-                                 <li>✨ Youtube 视频教程 👉<a href="https://www.youtube.com/watch?v=fpvYeTtxv-8">How to install Gradle 7.3.3 in MAC OS</a></li>
                              </ul>
                           </details>
                       </li>
@@ -70,10 +67,6 @@
                                         <ul> 
                                            <li> ✨ 创建 Java Application 教程 👉 <a href="https://docs.gradle.org/current/userguide/building_java_projects.html#sec:building_java_applications">Building Java applications</a>
                                            </li>
-                                           <li> ✨ 创建 Java 库 教程 👉 <a href="https://docs.gradle.org/current/userguide/building_java_projects.html#sec:building_java_libraries">Building Java libraries</a>
-                                           </li>
-                                           <li> ✨ ... 其他 内容 待 补充 或 参见 官网 链接 ... 👉 <a href="https://docs.gradle.org/current/userguide/building_java_projects.html">Building Java & JVM projects 子目录 内容 ... </a>
-                                           </li>
                                         </ul>
                                       </details>
                                  </li>
@@ -84,14 +77,6 @@
                                         </summary>
                                         <ul> 
                                            <li> ✨ 创建 Java 虚拟机 应用 的 Gradle 官方 教程 👉 <a href="https://docs.gradle.org/current/userguide/application_plugin.html#sec:application_usage">Building JVM applications</a>
-                                           </li>
-                                           <li> ✨ 使用 the Java Module System【模块系统】 创建 Java 项目 教程 👉 <a href="https://docs.gradle.org/current/userguide/application_plugin.html#sec:application_modular">Building applications using the Java Module System</a>
-                                               <ul>
-                                                   <li>✨ Oracle 官网 关于 Java Module System 说明 👉 <a href="https://www.oracle.com/corporate/features/understanding-java-9-modules.html">Understanding Java 9 Modules</a>
-                                                   </li>
-                                               </ul>
-                                           </li>
-                                           <li> ✨ 使用 Distribution plugin (which is automatically applied). 创建 Java 可部署 包 教程 👉 <a href="https://docs.gradle.org/current/userguide/application_plugin.html#sec:the_distribution">Building a distribution</a>
                                            </li>
                                         </ul>
                                       </details>
@@ -306,22 +291,22 @@
 
   * <details open>
         <summary>
-         <i><b><a id="gradle-install-and-setting-steps-for-mac">Gradle 的 安装与设置步骤</a></b></i>
+         <i><b><a id="gradle-install-and-setting-steps-for-mac">其他 说明</a></b></i>
         </summary>
         <ul style="disc">
             <li>
                 <details>
                    <summary>
-                       ✨ 安装 Gradle
+                       ✨ 说明
                    </summary>
                    <ul>
-                       <li>查询 可安装 的 Gradle 版本
+                       <li>查询
                            <ul>
                                <li>brew search gradle
                                </li>
                            </ul>
                        </li>
-                       <li>查询 指定版本 Gradle 信息 -- 之前的版本自带@后缀，不带@的纯gradle为最新版本。
+                       <li>查询 
                            <ul>
                                <li>brew info gradle ==> Caveats</li>
                            </ul>
