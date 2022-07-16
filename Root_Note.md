@@ -1,6 +1,6 @@
 # English Root Note - 词根 学习 笔记
 ## <a id="english-root-cogn">词根 学习 列表</a>
-  * 单词积木
+  * 单词积木 <i><b>Root - <kbd>cogn</kbd></b></i>
     + ```mermaid
         flowchart LR
         root1[[cogn]];
