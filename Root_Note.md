@@ -1,5 +1,13 @@
 # English Root Note - 词根 学习 笔记
 ## <a id="english-root-cogn">词根 学习 列表</a>
+  * 单词积木
+    + ```mermaid
+        flowchart LR
+        prefix1([re])-->root1[[cogn]];
+        prefix2([in])-->root1[[cogn]];
+        prefix3([meta])-->root1[[cogn]];
+        root1[[cogn]]-->subfix1(tition);
+      ```
   * <details open>
         <summary>
          <i><b>Root - <kbd>cogn</kbd></b></i>
