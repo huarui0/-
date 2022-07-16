@@ -38,6 +38,26 @@
                       <li>
                           <details>
                              <summary>
+                                 🔸 <a href="https://softca.tistory.com/">softca.tistory.com</a> 提供的一些词根学习教程
+                             </summary>
+                             <ul>
+                                 <li>
+                                     <details>
+                                        <summary>
+                                            ✨ ENGLISH ROOT WORD: <kbd>cogn-</kbd>, <kbd>cognit-</kbd> from Latin cognoscere, cognitus, cognit
+                                        </summary>
+                                        <ul> 
+                                           <li> ✨ ENGLISH ROOT WORD: <kbd>cogn-</kbd>, <kbd>cognit-</kbd> from Latin cognoscere, cognitus, cognit 👉 <a href="https://softca.tistory.com/1643">ENGLISH ROOT WORD: <kbd>cogn-</kbd>, <kbd>cognit-</kbd> from Latin cognoscere, cognitus, cognit</a>
+                                           </li>
+                                        </ul>
+                                      </details>
+                                 </li>
+                             </ul>
+                          </details>
+                      </li>
+                      <li>
+                          <details>
+                             <summary>
                                 🔸 YouTube 上 的 教程
                              </summary>
                              <ul>
@@ -90,17 +110,6 @@
                                            <li> ✨ Root Word: "cogn / sci" 👉 <a href="https://quizlet.com/2584543/root-word-cogn-sci-flash-cards/">CRoot Word: "cogn / sci"</a>
                                            </li>
                                            <li> ✨ Root Word: "cogn / sci" - flashcards 👉 <a href="https://quizlet.com/2584543/flashcards">CRoot Word: "cogn / sci"</a>
-                                           </li>
-                                        </ul>
-                                      </details>
-                                 </li>
-                                 <li>
-                                     <details>
-                                        <summary>
-                                            ✨ ENGLISH ROOT WORD: <kbd>cogn-</kbd>, <kbd>cognit-</kbd> from Latin cognoscere, cognitus, cognit
-                                        </summary>
-                                        <ul> 
-                                           <li> ✨ ENGLISH ROOT WORD: <kbd>cogn-</kbd>, <kbd>cognit-</kbd> from Latin cognoscere, cognitus, cognit 👉 <a href="https://softca.tistory.com/1643">ENGLISH ROOT WORD: <kbd>cogn-</kbd>, <kbd>cognit-</kbd> from Latin cognoscere, cognitus, cognit</a>
                                            </li>
                                         </ul>
                                       </details>
