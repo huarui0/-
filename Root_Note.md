@@ -4,12 +4,7 @@
     + ```mermaid
         flowchart LR
         root1[[cogn]];
-        prefix2([in])-->root1[[cogn]];
-        prefix3([meta])-->root1[[cogn]];
         root1[[cogn]]-->subfix1(ition);
-        root1[[cogn]]-->subfix2(izble);
-        root1[[cogn]]-->subfix3(izance);
-        root1[[cogn]]-->subfix4(ize);
       ```
     + ```mermaid
         flowchart LR
