@@ -27,7 +27,8 @@
                       <li>
                           <details>
                              <summary>
-                                🔸 备用参考资源
+                                🔸 <kbd>cogni-</kbd>, <kbd>cogn-</kbd>, <kbd>cognosc-</kbd><br />
+                                   (Latin: know, learn; comprehend, perceive)
                              </summary>
                              <ul>
                                  <li> ✨ Gradle官方的安装方法 👉 <a href="https://gradle.org/install/">Gradle Build Tool：Installation 🔹 Installing with a package manager ➡️ Homebrew is “the missing package manager for macOS”.</a>
