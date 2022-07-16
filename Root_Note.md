@@ -38,7 +38,7 @@
                       <li>
                           <details>
                              <summary>
-                                 🔸 <a href="https://wordinfo.info">English Word Information - Word Info about English Vocabulary</a> 提供的教程
+                                 🔸 <a href="https://thepickledspruit.org"> </a> 这个网站 博主 Mona 提供 的 关于 学习 cogn 词根 的 一些 知识
                              </summary>
                              <ul>
                                  <li> ✨ What Is The Meaning Of The Root Word Cogn? 👉 <a href="https://thepickledspruit.org/what-is-the-meaning-of-the-root-word-cogn/">What Is The Meaning Of The Root Word Cogn?</a>
