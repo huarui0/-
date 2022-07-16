@@ -61,7 +61,6 @@
                                            </li>
                                            <li> ✨ Root Word: "cogn / sci" - flashcards 👉 <a href="https://quizlet.com/2584543/flashcards">CRoot Word: "cogn / sci"</a>
                                            </li>
-                                         
                                         </ul>
                                       </details>
                                  </li>
