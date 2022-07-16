@@ -42,33 +42,36 @@
            <li>
                <details>
                   <summary>
-                      ✨ Gradle 创建 项目
+                      ✨ 练习 - 小测验
                   </summary>
                   <ul>
                       <li>
                           <details>
                              <summary>
-                                🔸 Gradle官网 教程
+                                🔸 Root Word: "cogn"
                              </summary>
                              <ul>
                                  <li>
                                      <details>
                                         <summary>
-                                            ✨ 构建 Gradle 项目 基础 👉 <a href="https://docs.gradle.org/current/userguide/multi_project_builds.html">Structuring and Building a Software Component with Gradle</a>
+                                            ✨ Root Word: "cogn" 👉 <a href="https://quizlet.com/71148312/root-word-cogn-flash-cards/">Root Word: "cogn"</a>
                                         </summary>
                                         <ul> 
-                                           <li> ✨ multi project builds 👉 <a href="https://docs.gradle.org/current/userguide/multi_project_builds.html#sec:creating_multi_project_builds">Creating a multi-project build</a>
+                                           <li> ✨ Root Word: "cogn / sci" 👉 <a href="https://quizlet.com/2584543/root-word-cogn-sci-flash-cards/">CRoot Word: "cogn / sci"</a>
                                            </li>
+                                           <li> ✨ Root Word: "cogn / sci" - flashcards 👉 <a href="https://quizlet.com/2584543/flashcards">CRoot Word: "cogn / sci"</a>
+                                           </li>
+                                         
                                         </ul>
                                       </details>
                                  </li>
                                  <li>
                                      <details>
                                         <summary>
-                                            ✨ 创建 Java 和 JVM 项目 的 参考文档 - 总览【入口】 👉 <a href="https://docs.gradle.org/current/userguide/building_java_projects.html">Building Java & JVM projects</a>
+                                            ✨ ENGLISH ROOT WORD: <kbd>cogn-</kbd>, <kbd>cognit-</kbd> from Latin cognoscere, cognitus, cognit
                                         </summary>
                                         <ul> 
-                                           <li> ✨ 创建 Java Application 教程 👉 <a href="https://docs.gradle.org/current/userguide/building_java_projects.html#sec:building_java_applications">Building Java applications</a>
+                                           <li> ✨ ENGLISH ROOT WORD: <kbd>cogn-</kbd>, <kbd>cognit-</kbd> from Latin cognoscere, cognitus, cognit 👉 <a href="https://softca.tistory.com/1643">ENGLISH ROOT WORD: <kbd>cogn-</kbd>, <kbd>cognit-</kbd> from Latin cognoscere, cognitus, cognit</a>
                                            </li>
                                         </ul>
                                       </details>
