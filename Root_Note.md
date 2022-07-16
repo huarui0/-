@@ -31,7 +31,7 @@
                                    (Latin: know, learn; comprehend, perceive)
                              </summary>
                              <ul>
-                                 <li> ✨ Gradle官方的安装方法 👉 <a href="https://gradle.org/install/">Gradle Build Tool：Installation 🔹 Installing with a package manager ➡️ Homebrew is “the missing package manager for macOS”.</a>
+                                 <li> ✨ English Word Information - Word Info about English Vocabulary 👉 <a href="https://wordinfo.info/unit/519"><kbd>cogni-</kbd>, <kbd>cogn-</kbd>, <kbd>cognosc-</kbd> 🔹 Latin: know, learn; comprehend, perceive</a>
                                  </li>
                              </ul>
                           </details>
