@@ -14,10 +14,10 @@
                       <li>
                           <details>
                              <summary>
-                                🔸 
+                                🔸 <kbd>cogn</kbd> - learn, know
                              </summary>
                              <ul>
-                                 <li> ✨ this article is good 👉 <a href="https://www.membean.com/rootcasts/cogn-learn/">Mental Cogs Cognition</a>
+                                 <li> ✨ this article is good 👉 <a href="https://www.membean.com/rootcasts/cogn-learn/">Mental Cogs Cognition: cogn-learn</a>
                                  </li>
                                  <li> ✨ 与 上一篇 相同，只是网址 和 编排 不同 ，前篇 更新一些 👉 <a href="https://membean.com/roots/cogn-learn"><kbd>cogn</kbd> - learn, know</a>
                                  </li>
