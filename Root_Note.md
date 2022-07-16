@@ -1,8 +1,8 @@
 # English Root Note - 词根 学习 笔记
-## <a id="english-root-cogn">Root - <kbd>cogn</kbd></a>
+## <a id="english-root-cogn">词根 学习 列表</a>
   * <details open>
         <summary>
-         <i><b>参考</b></i>
+         <i><b>Root - <kbd>cogn</kbd></b></i>
         </summary>
         <ul style="disc">
            <li>
