@@ -38,6 +38,17 @@
                       <li>
                           <details>
                              <summary>
+                                 🔸 <a href="https://wordinfo.info">English Word Information - Word Info about English Vocabulary</a> 提供的教程
+                             </summary>
+                             <ul>
+                                 <li> ✨ What Is The Meaning Of The Root Word Cogn? 👉 <a href="https://thepickledspruit.org/what-is-the-meaning-of-the-root-word-cogn/">What Is The Meaning Of The Root Word Cogn?</a>
+                                 </li>
+                             </ul>
+                          </details>
+                      </li>
+                      <li>
+                          <details>
+                             <summary>
                                  🔸 <a href="https://softca.tistory.com/">softca.tistory.com</a> 提供的一些词根学习教程
                              </summary>
                              <ul>
@@ -89,6 +100,44 @@
                   </ul>
                </details>
            </li>
+           <li>
+               <details>
+                  <summary>
+                      ✨ 一些 英文 参考资料
+                  </summary>
+                  <ul>
+                      <li>
+                          <details>
+                             <summary>
+                                🔸 关于 <kbd>cogn</kbd> 的 资料
+                             </summary>
+                             <ul>
+                      <li>
+                          <details>
+                             <summary>
+                                🔸 The Free Dictionary 上 的 关于 <kbd>cogn</kbd> 的 资料
+                             </summary>
+                             <ul>
+                                 <li>
+                                     <details>
+                                        <summary>
+                                            ✨ Words containing cogn 👉 <a href="https://www.thefreedictionary.com/words-containing-cogn">Words containing cogn</a>
+                                        </summary>
+                                        <ul> 
+                                           <li> ✨ Words containing cogn 👉 <a href="https://www.thefreedictionary.com/words-containing-cogn">Words containing cogn</a>
+                                           </li>
+                                        </ul>
+                                      </details>
+                                 </li>
+                             </ul>
+                          </details>
+                      </li>
+                  </ul>
+               </details>
+           </li>
+         
+         
+         
            <li>
                <details>
                   <summary>
