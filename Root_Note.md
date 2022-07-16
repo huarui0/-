@@ -44,7 +44,7 @@
                                  <li>
                                      <details>
                                         <summary>
-                                            ✨ Word Roots: GNO/ COGN/ CONN and derived words Illustrated
+                                            ✨ VocabularyTV on ESL 提供的教程 👉 <a href="https://www.youtube.com/playlist?list=PLxlCtvzFKXiyfYu91PB8IoMIQt2TwLEkH">Build Vocabulary through Root Words: Most Important Vocabulary Words for SAT/ GRE/CAT/ GMAT/ CLAT/SSC and Other Exams</a>
                                         </summary>
                                         <ul> 
                                            <li> ✨ Word Roots: GNO/ COGN/ CONN and derived words Illustrated ( Vocabulary L-29) 👉 <a href="https://www.youtube.com/watch?v=ju3LC-48Av8">Word Roots: GNO/ COGN/ CONN and derived words Illustrated ( Vocabulary L-29)</a>
@@ -59,17 +59,6 @@
                                         </summary>
                                         <ul> 
                                            <li> ✨ 创建 Java Application 教程 👉 <a href="https://docs.gradle.org/current/userguide/building_java_projects.html#sec:building_java_applications">Building Java applications</a>
-                                           </li>
-                                        </ul>
-                                      </details>
-                                 </li>
-                                 <li>
-                                     <details>
-                                        <summary>
-                                            ✨  👉 <a href="https://www.youtube.com/playlist?list=PLxlCtvzFKXiyfYu91PB8IoMIQt2TwLEkH">Build Vocabulary through Root Words: Most Important Vocabulary Words for SAT/ GRE/CAT/ GMAT/ CLAT/SSC and Other Exams</a>
-                                        </summary>
-                                        <ul> 
-                                           <li> ✨ Word Roots: GNO/ COGN/ CONN and derived words Illustrated ( Vocabulary L-29) 👉 <a href="https://www.youtube.com/watch?v=ju3LC-48Av8">Word Roots: GNO/ COGN/ CONN and derived words Illustrated ( Vocabulary L-29)</a>
                                            </li>
                                         </ul>
                                       </details>
