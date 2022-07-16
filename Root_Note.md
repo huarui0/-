@@ -3,13 +3,27 @@
   * 单词积木
     + ```mermaid
         flowchart LR
-        prefix1([re])-->root1[[cogn]];
+        root1[[cogn]];
         prefix2([in])-->root1[[cogn]];
         prefix3([meta])-->root1[[cogn]];
         root1[[cogn]]-->subfix1(ition);
         root1[[cogn]]-->subfix2(izble);
         root1[[cogn]]-->subfix3(izance);
         root1[[cogn]]-->subfix4(ize);
+      ```
+    + ```mermaid
+        flowchart LR
+        prefix1([re])-->root2[[cogn]];
+        root2[[cogn]]-->subfix1(ition);
+        root2[[cogn]]-->subfix2(izble);
+        root2[[cogn]]-->subfix3(izance);
+        root2[[cogn]]-->subfix4(ize);
+      ```
+    + ```mermaid
+        flowchart LR
+        prefix2([in])-->root3[[cogn]];
+        prefix3([meta])-->root2[[cogn]];
+        root3[[cogn]]-->subfix1(ition);
       ```
   * <details open>
         <summary>
