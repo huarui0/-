@@ -6,7 +6,10 @@
         prefix1([re])-->root1[[cogn]];
         prefix2([in])-->root1[[cogn]];
         prefix3([meta])-->root1[[cogn]];
-        root1[[cogn]]-->subfix1(tition);
+        root1[[cogn]]-->subfix1(ition);
+        root1[[cogn]]-->subfix1(izble);
+        root1[[cogn]]-->subfix1(izance);
+        root1[[cogn]]-->subfix1(ize);
       ```
   * <details open>
         <summary>
