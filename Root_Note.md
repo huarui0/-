@@ -1,6 +1,46 @@
 # English Root Note - 词根 学习 笔记
 ## <a id="english-root-cogn">词根 学习 列表</a>
+  * <details open>
+        <summary>
+            <i><b>Root - <kbd>cogn</kbd></b></i>
+        </summary>
+        <ul style="disc">
+           <li>
+               <details open>
+                   <summary>
+                       <i><b>词根 <kbd>cogn</kbd> 的 含义</b></i>
+                   </summary>
+                   <ul>
+                       <li>
+                           <table cellspacing="5">
+                               <caption>词根 <i><b><kbd>cogn</kbd></b></i> 的 含义</caption>
+                               <tr>
+                                   <th>Root word</th>
+                                   <th>Meanings</th>
+                                   <th>Origin</th>
+                                   <th>Examples and Definitions</th>
+                               </tr>
+                               <tr>
+                                   <th rowspan="3"><kbd>cogn/i</kbd></th>
+                                   <td rowspan="3">know, </td>
+                                   <td rowspan="3">Latin</td>
+                                   <td>cognition - process of acquiring knowledge;</td>
+                               </tr>
+                               <tr>
+                                   <td>incognito - disguised so no one knows you;</td>
+                               </tr>
+                               <tr>
+                                   <td>recognize - to discover that one knows/td>
+                               </tr>
+                           </table>
+                       </li>
+                   </ul>
+               </details>
+           </li>
+        </ul>
+    </details>
   * 单词积木 <i><b>Root - <kbd>cogn</kbd></b></i>
+    + 
     + ```mermaid
         flowchart LR
         root1[[cogn]];
