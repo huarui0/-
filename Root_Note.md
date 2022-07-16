@@ -79,81 +79,13 @@
                                  <li>
                                      <details>
                                         <summary>
-                                            ✨ The Application Plugin 的 教程 👉 <a href="https://docs.gradle.org/current/userguide/application_plugin.html">The Application Plugin</a>
+                                            ✨ Youtube 上 的 教程</a>
                                         </summary>
                                         <ul> 
-                                           <li> ✨ 创建 Java 虚拟机 应用 的 Gradle 官方 教程 👉 <a href="https://docs.gradle.org/current/userguide/application_plugin.html#sec:application_usage">Building JVM applications</a>
+                                           <li> ✨ Word Roots: GNO/ COGN/ CONN and derived words Illustrated ( Vocabulary L-29) 👉 <a href="https://www.youtube.com/watch?v=ju3LC-48Av8">Word Roots: GNO/ COGN/ CONN and derived words Illustrated ( Vocabulary L-29)</a>
                                            </li>
                                         </ul>
                                       </details>
-                                 </li>
-                             </ul>
-                          </details>
-                      </li>
-                      <li>
-                          <details>
-                             <summary>
-                                🔸 Spring 官网 提供的 教程
-                             </summary>
-                             <ul>
-                                 <li> ✨ Using Gradle to build a simple Java project. 👉 <a href="https://spring.io/guides/gs/gradle/">Building Java Projects with Gradle</a>
-                                 </li>
-                             </ul>
-                          </details>
-                      </li>
-                      <li>
-                          <details>
-                             <summary>
-                                🔸 JetBrains 官网 提供的 教程
-                             </summary>
-                             <ul>
-                                 <li> ✨ The project used in this tutorial can be found on <a href="https://github.com/JetBrains/ij_tutorial_gradle">GitHub ↗️</a> 👉 <a href="https://www.jetbrains.com/help/idea/getting-started-with-gradle.html">Getting Started with Gradle</a>
-                                 </li>
-                             </ul>
-                          </details>
-                      </li>
-                      <li>
-                          <details>
-                             <summary>
-                                🔸 GitHub 上 的 例子
-                             </summary>
-                             <ul>
-                                 <li> ✨ Esri 提供的例子，可到官网查教程 👉 <a href="https://github.com/Esri/java-gradle-starter-project">Esri/java-gradle-starter-project 🔹 Public template</a>
-                                 </li>
-                                 <li> ✨ JavaCard project template for building CAP and running JCardSim with gradle + coverage<br /> 👉 <a href="https://github.com/crocs-muni/javacard-gradle-template-edu">crocs-muni/javacard-gradle-template-edu 🔹 Public</a>
-                                 </li>
-                             </ul>
-                          </details>
-                      </li>
-                      <li>
-                          <details>
-                             <summary>
-                                🔸 medium.com 提供的 教程
-                             </summary>
-                             <ul>
-                                 <li> ✨ 不错的 学习 教程 👉 <a href="https://medium.com/felixklauke/the-only-java-project-template-you-will-ever-need-6a9390f3e54c">The only java project template you will ever need!</a>
-                                 </li>
-                             </ul>
-                          </details>
-                      </li>
-                      <li>
-                          <details>
-                             <summary>
-                                🔸 vogella.com 提供的 教程
-                             </summary>
-                             <ul>
-                                 <li> ✨ Eclipse 创建 Gradle 项目 的 教程【备用】 👉 <a href="https://www.vogella.com/tutorials/EclipseGradle/article.html">Using the Gradle build system in the Eclipse IDE - Tutorial</a>
-                                 </li>
-                             </ul>
-                          </details>
-                      </li>
-                      <li>
-                          <details>
-                             <summary>
-                                🔸 其他网站 提供的 教程
-                             </summary>
-                             <ul>
-                                 <li> ✨ tutorialspoint.com 提供 👉 <a href="https://www.tutorialspoint.com/gradle/gradle_build_a_java_project.htm">Gradle - Build a JAVA Project</a>
                                  </li>
                              </ul>
                           </details>
