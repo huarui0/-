@@ -135,37 +135,6 @@
                   </ul>
                </details>
            </li>
-           <li>
-               <details>
-                  <summary>
-                      ✨ 练习 - 小测验
-                  </summary>
-                  <ul>
-                      <li>
-                          <details>
-                             <summary>
-                                🔸 Root Word: "cogn"
-                             </summary>
-                             <ul>
-                                 <li>
-                                     <details>
-                                        <summary>
-                                            ✨ Root Word: "cogn" 👉 <a href="https://quizlet.com/71148312/root-word-cogn-flash-cards/">Root Word: "cogn"</a>
-                                        </summary>
-                                        <ul> 
-                                           <li> ✨ Root Word: "cogn / sci" 👉 <a href="https://quizlet.com/2584543/root-word-cogn-sci-flash-cards/">CRoot Word: "cogn / sci"</a>
-                                           </li>
-                                           <li> ✨ Root Word: "cogn / sci" - flashcards 👉 <a href="https://quizlet.com/2584543/flashcards">CRoot Word: "cogn / sci"</a>
-                                           </li>
-                                        </ul>
-                                      </details>
-                                 </li>
-                             </ul>
-                          </details>
-                      </li>
-                  </ul>
-               </details>
-           </li>
         </ul>
     </details>
 
