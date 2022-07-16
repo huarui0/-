@@ -1,5 +1,5 @@
 # English Root Note - 词根 学习 笔记
-## <a id="english-root-cogn">Root - cogn</a>
+## <a id="english-root-cogn">Root - <kbd>cogn</kbd></a>
   * <details open>
         <summary>
          <i><b>参考</b></i>
@@ -8,16 +8,18 @@
            <li>
                <details>
                   <summary>
-                      ✨ reserve
+                      ✨ 纯英文 教程
                   </summary>
                   <ul>
                       <li>
                           <details>
                              <summary>
-                                🔸 -
+                                🔸 
                              </summary>
                              <ul>
-                                 <li> ✨ 主要参考文档 👉 <a href="https://formulae.brew.sh/formula/gradle">Homebrew Formulae：gradle</a>
+                                 <li> ✨ this article is good 👉 <a href="https://www.membean.com/rootcasts/cogn-learn/">Mental Cogs Cognition</a>
+                                 </li>
+                                 <li> ✨ 与 上一篇 相同，只是网址 和 编排 不同 ，前篇 更新一些 👉 <a href="https://membean.com/roots/cogn-learn">Homebrew Formulae：gradle</a>
                                  </li>
                              </ul>
                           </details>
