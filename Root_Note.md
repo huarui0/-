@@ -55,9 +55,27 @@
                            <details>
                                <summary>
                                    <i><b>cogn- ize</b></i>
-                               </summary>        
+                               </summary>
                                <ul>
-                                   <li> - </li>
+                                   <li>
+                                       <details>
+                                           <summary>
+                                               <i><b>cogn- izable</b></i>
+                                           </summary>
+                                           <ul>
+                                               <li>
+                                                   <details>
+                                                       <summary>
+                                                           <i><b>cogn- izably</b></i>
+                                                       </summary>                                           
+                                                       <ul>
+                                                           <li>cogn- izably</li>
+                                                       </ul>
+                                                   </details>
+                                               </li>
+                                           </ul>
+                                       </details>
+                                    </li>
                                </ul>
                            </details>
                        </li>
