@@ -51,6 +51,16 @@
                        <i><b>与 know 紧密关联 的 单词</b></i>
                    </summary>
                    <ul>
+                       <li>
+                           <details>
+                               <summary>
+                                   <i><b>cogn- ize</b></i>
+                               </summary>        
+                               <ul>
+                                   <li> - </li>
+                               </ul>
+                           </details>
+                       </li>
                        <li>cogn- ition <br />
                        </li>
                    </ul>
