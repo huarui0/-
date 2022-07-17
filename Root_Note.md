@@ -36,14 +36,14 @@
                                </tr>
                            </table>
                        </li>
+                       <li>解释
+                           <ul>
+                               <li>A Latin word meaning ‘to learn’ gives rise to the English word root cogn. Primarily because of French, the root conn also comes from this root. A readily recognizable word that comes to mind which uses this root, is, well, recognize! What else can we acquaint you with to help you ‘learn’ this root?
+                               </li>
+                           </ul>
+                       </li>
                    </ul>
                </details>
-           </li>
-           <li>解释
-               <ul>
-                   <li>A Latin word meaning ‘to learn’ gives rise to the English word root cogn. Primarily because of French, the root conn also comes from this root. A readily recognizable word that comes to mind which uses this root, is, well, recognize! What else can we acquaint you with to help you ‘learn’ this root?
-                   </li>
-               </ul>
            </li>
         </ul>
     </details>
