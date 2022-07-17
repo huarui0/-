@@ -12,8 +12,9 @@
                    </summary>
                    <ul>
                        <li>
-                           <table cellspacing="5">
-                               <caption>词根 <i><b><kbd>cogn</kbd></b></i> 的 含义</caption>
+                           <!-- <table cellspacing="5"> -->
+                           <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                               <caption>含义和例子</caption>
                                <tr>
                                    <th>Root word</th>
                                    <th>Meanings</th>
