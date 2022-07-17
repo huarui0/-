@@ -76,6 +76,27 @@
                                            </ul>
                                        </details>
                                     </li>
+                                
+                                
+                                   <li>
+                                       <details>
+                                           <summary>
+                                               <i><b>cogn- izance</b></i>
+                                           </summary>
+                                           <ul>
+                                               <li>
+                                                   <details>
+                                                       <summary>
+                                                           <i><b>cogn- izant</b></i>
+                                                       </summary>                                           
+                                                       <ul>
+                                                           <li>cogn- izant</li>
+                                                       </ul>
+                                                   </details>
+                                               </li>
+                                           </ul>
+                                       </details>
+                                    </li>
                                </ul>
                            </details>
                        </li>
