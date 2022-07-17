@@ -63,6 +63,7 @@
     + ```mermaid
         flowchart LR
         root1[[cogn]];
+        root1[[cogn]]-->subfix1(ize)-->meaning1>To realize or to actually know something];
         root1[[cogn]]-->subfix1(ition);
       ```
     + ```mermaid
@@ -79,6 +80,14 @@
         prefix3([meta])-->root2[[cogn]];
         root3[[cogn]]-->subfix1(ition);
       ```
+      
+    + ```mermaid
+        flowchart LR
+        prefix2([in])-->root3[[cogn]];
+        prefix3([meta])-->root2[[cogn]];
+        root3[[cogn]]-->subfix1(ition);
+      ```
+      
   * <details open>
         <summary>
          <i><b>Root - <kbd>cogn</kbd></b></i>
