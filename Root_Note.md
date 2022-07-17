@@ -192,8 +192,6 @@
                                </ul>
                            </details>
                        </li>
-                    
-                    
                    </ul>
                </details>
            </li>
