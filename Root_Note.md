@@ -24,7 +24,7 @@
                                </tr>
                                <tr>
                                    <th rowspan="3"><kbd>cogn/i</kbd></th>
-                                   <td rowspan="3">know, </td>
+                                   <td rowspan="3">know, learn; comprehend, perceive</td>
                                    <td rowspan="3">Latin</td>
                                    <td>cognition - process of acquiring knowledge;</td>
                                </tr>
