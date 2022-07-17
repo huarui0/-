@@ -65,7 +65,7 @@
         root1[[cogn]];
         root1[[cogn]]-- a: become : become like -->subfix1(ize)-->meaning1>cognize: To realize or to actually know something];
         subfix1[[ize]]-->subfix1_1(able)-->meaning2>cognizable: The capability of being aware of something or able to perceive with the mind;
-        subfix1_1(able)-->meaning3>cognizable: Regarding something within a law court's jurisdiction of a particular court of law and therefore able to be tried by that court;
+        subfix1_2(able)-->meaning3>cognizable: Regarding something within a law court's jurisdiction of a particular court of law and therefore able to be tried by that court;
         root1[[cogn]]-->subfix2(ition);
       ```
     + ```mermaid
