@@ -124,44 +124,8 @@
                                    <i><b>cogn- itive</b></i>
                                </summary>
                                <ul>
-                                   <li>
-                                       <details>
-                                           <summary>
-                                               <i><b>cogn- itively</b></i>
-                                           </summary>
-                                           <ul>
-                                               <li>
-                                                   <details>
-                                                       <summary>
-                                                           <i><b>cogn- itively</b></i>
-                                                       </summary>
-                                                       <ul>
-                                                           <li>cogn- itively</li>
-                                                       </ul>
-                                                   </details>
-                                               </li>
-                                           </ul>
-                                       </details>
+                                   <li>cogn- itive
                                    </li>
-                                   <li>
-                                       <details>
-                                           <summary>
-                                               <i><b>cogn- izance</b></i>
-                                           </summary>
-                                           <ul>
-                                               <li>
-                                                   <details>
-                                                       <summary>
-                                                           <i><b>cogn- izant</b></i>
-                                                       </summary>
-                                                       <ul>
-                                                           <li>cogn- izant</li>
-                                                       </ul>
-                                                   </details>
-                                               </li>
-                                           </ul>
-                                       </details>
-                                    </li>
                                </ul>
                            </details>
                        </li>
