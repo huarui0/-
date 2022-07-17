@@ -63,7 +63,7 @@
     + ```mermaid
         flowchart LR
         root1[[cogn]];
-        root1[[cogn]]-->subfix1(ize)-->meaning1>To realize or to actually know something];
+        root1[[cogn]]-- a: become : become like -->subfix1(ize)-->meaning1>To realize or to actually know something];
         root1[[cogn]]-->subfix2(ition);
       ```
     + ```mermaid
