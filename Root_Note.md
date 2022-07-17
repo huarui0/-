@@ -45,6 +45,21 @@
                    </ul>
                </details>
            </li>
+         
+         
+           <li>
+               <details open>
+                   <summary>
+                       <i><b>与 know 紧密关联 的 单词</b></i>
+                   </summary>
+                   <ul>
+                       <li>cogn- ition <br />
+                       </li>
+                   </ul>
+               </details>
+           </li>
+         
+         
         </ul>
     </details>
   * 单词积木 <i><b>Root - <kbd>cogn</kbd></b></i>
