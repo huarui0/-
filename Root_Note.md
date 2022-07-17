@@ -76,8 +76,6 @@
                                            </ul>
                                        </details>
                                     </li>
-                                
-                                
                                    <li>
                                        <details>
                                            <summary>
