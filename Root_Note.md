@@ -101,43 +101,16 @@
                        <li>
                            <details>
                                <summary>
-                                   <i><b>cogn- ize</b></i>
+                                   <i><b>cogn- ition</b></i>
                                </summary>
                                <ul>
                                    <li>
                                        <details>
                                            <summary>
-                                               <i><b>cogn- izable</b></i>
+                                               <i><b>cogn- itional</b></i>
                                            </summary>
                                            <ul>
-                                               <li>
-                                                   <details>
-                                                       <summary>
-                                                           <i><b>cogn- izably</b></i>
-                                                       </summary>
-                                                       <ul>
-                                                           <li>cogn- izably</li>
-                                                       </ul>
-                                                   </details>
-                                               </li>
-                                           </ul>
-                                       </details>
-                                   </li>
-                                   <li>
-                                       <details>
-                                           <summary>
-                                               <i><b>cogn- ition</b></i>
-                                           </summary>
-                                           <ul>
-                                               <li>
-                                                   <details>
-                                                       <summary>
-                                                           <i><b>cogn- itional</b></i>
-                                                       </summary>
-                                                       <ul>
-                                                           <li>cogn- izant</li>
-                                                       </ul>
-                                                   </details>
+                                               <li>cogn- itional
                                                </li>
                                            </ul>
                                        </details>
