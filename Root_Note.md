@@ -64,7 +64,6 @@
         flowchart LR
         root1[[cogn]];
         root1[[cogn]]-- a: become : become like -->subfix1(ize)-->meaning1>cognize: To realize or to actually know something];
-        subfix1[[ize]]-->subfix1_1(able)-->meaning2>cognizable: The capability of being aware of something or able to perceive with the mind;
         root1[[cogn]]-->subfix2(ition);
       ```
     + ```mermaid
