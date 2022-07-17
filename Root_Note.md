@@ -5,7 +5,7 @@
             <i><b>Root - <kbd>cogn</kbd></b></i>
         </summary>
         <ul style="disc">
-           <li>
+           <li><kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
                <details open>
                    <summary>
                        <i><b>词根 <kbd>cogn</kbd> 的 含义</b></i>
