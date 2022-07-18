@@ -91,7 +91,7 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-itive</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ive">-itive</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
