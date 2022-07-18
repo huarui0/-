@@ -1,4 +1,4 @@
-# English Root Note - 词根 学习 笔记
+# English Root Note
 ## <a id="english-root-cogn">Root <kbd>cogn</kbd> Note</a>
   * <details open>
         <summary>
