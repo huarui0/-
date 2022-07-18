@@ -52,7 +52,7 @@
 
   * <a id="english-root-cogn-table"></a><details open>
         <summary>
-            <i><b>词根 <kbd>cogn</kbd> 的 学习【表格】</b></i> - 含义：<kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
+            <i><b>Root <kbd>cogn</kbd> meanigs: know, learn; comprehend, perceive
         </summary>
         <ul style="disc">
             <li>
