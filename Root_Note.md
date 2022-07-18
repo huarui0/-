@@ -155,12 +155,17 @@
                                    <th>Root</th>
                                    <th>Subfix</th>
                                    <th>Meanings</th>
-                                   <th>Origin</th>
-                                   <th>Examples and Definitions</th>
+                                   <th>Explain</th>
                                </tr>
                                <tr>
+                                   <td rowspan="2"> - </td>
+                                   <td rowspan="2"> cogn- </td>
+                                   <td> ize </td>
                                    <td> - </td>
                                    <td> - </td>
+                               </tr>
+                               <tr>
+                                   <td> izable </td>
                                    <td> - </td>
                                    <td> - </td>
                                </tr>
