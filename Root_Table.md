@@ -52,20 +52,19 @@
 
   * <a id="english-root-cogn-table"></a><details open>
         <summary>
-            <i><b>词根 <kbd>cogn</kbd> 的 学习【表格】</b></i>
+            <i><b>词根 <kbd>cogn</kbd> 的 学习【表格】</b></i> - 含义：<kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
         </summary>
         <ul style="disc">
             <li>
                 <details open>
                     <summary>
                         <i><b>与 <kbd>cogn</kbd> 含义密切的单词列表</b></i><br />
-                        含义：<kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
                     </summary>
                     <ul>
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption>词根组合</caption>
+                                <caption>词根组成单词表格</caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
