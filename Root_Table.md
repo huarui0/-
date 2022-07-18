@@ -247,7 +247,7 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="7"></td>
+                                    <td colspan="8"></td>
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
