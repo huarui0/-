@@ -90,8 +90,8 @@
                                 <tr>
                                     <td> - </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/pre-">pre-</a> </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td rowspan="2"> cogn </td>
+                                    <td rowspan="2"> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -99,8 +99,6 @@
                                 <tr>
                                     <td> - </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/pre-">re-</a> </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
