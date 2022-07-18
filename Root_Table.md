@@ -88,9 +88,9 @@
                                     <td colspan="6"></td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> cogn </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-itive</a> </td>
                                     <td> - </td>
                                     <td> - </td>
