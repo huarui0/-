@@ -111,6 +111,7 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
+                                    <td colspan="6"></td>
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
