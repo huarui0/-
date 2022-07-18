@@ -89,39 +89,6 @@
             </li>
         </ul>
     </details>
-
-  * 单词积木 <i><b>Root - <kbd>cogn</kbd></b></i>
-    + 
-    + ```mermaid
-        flowchart LR
-        root1[[cogn]];
-        root1[[cogn]]-- a: become : become like-->subfix1(ize)-->meaning1>cognize: To realize or to actually know something];
-        subfix1(ize)-->subfix1_2(able)-->meaning2>cognizable: The capability of being aware of something or able to perceive with the mind: The dates for the city events were all cognizable because they had been discussed and were publicized to take place in the spring.];
-        subfix1_2(able)-->meaning3>cognizable: Regarding something within a law court's jurisdiction of a particular court of law and therefore able to be tried by that court];
-        root1[[cogn]]-->subfix2(ition);
-      ```
-    + ```mermaid
-        flowchart LR
-        prefix1([re])-->root2[[cogn]];
-        root2[[cogn]]-->subfix1(ition);
-        root2[[cogn]]-->subfix2(izble);
-        root2[[cogn]]-->subfix3(izance);
-        root2[[cogn]]-->subfix4(ize);
-      ```
-    + ```mermaid
-        flowchart LR
-        prefix2([in])-->root3[[cogn]];
-        prefix3([meta])-->root2[[cogn]];
-        root3[[cogn]]-->subfix1(ition);
-      ```
-      
-    + ```mermaid
-        flowchart LR
-        prefix2([in])-->root3[[cogn]];
-        prefix3([meta])-->root2[[cogn]];
-        root3[[cogn]]-->subfix1(ition);
-      ```
-      
   * <details open>
         <summary>
          <i><b>Root - <kbd>cogn</kbd></b></i>
