@@ -1,11 +1,11 @@
 # English Root Note - 词根 学习 笔记
-## <a id="english-root-cogn">词根 <kbd>cogn</kbd> 学习 笔记</a>
+## <a id="english-root-cogn">Root <kbd>cogn</kbd> Note</a>
   * <details open>
         <summary>
             <i><b>Root - <kbd>cogn</kbd></b></i>
         </summary>
         <ul style="disc">
-           <li><kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
+           <li>
                <details open>
                    <summary>
                        <i><b>词根 <kbd>cogn</kbd> 的 含义</b></i>
