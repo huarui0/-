@@ -503,9 +503,9 @@
                         <th>Examples and Definitions</th>
                     </tr>
                     <tr>
-                        <th rowspan="3"><kbd>con</kbd></th>
-                        <td rowspan="3">sound</td>
-                        <td rowspan="3">Latin</td>
+                        <th rowspan="4"><kbd>con</kbd></th>
+                        <td rowspan="4">sound</td>
+                        <td rowspan="4">Latin</td>
                         <td>consonant - a speech sound;</td>
                     </tr>
                     <tr>
@@ -552,8 +552,15 @@
                                 <tr>
                                     <td> - </td>
                                     <td> - </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td> son </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ic</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ar</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -563,37 +570,7 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-al">-al</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/pre-">pre-</a> </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/pre-">re-</a> </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> non- </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/pre-">re-</a> </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ority</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -603,155 +580,13 @@
                                     <td colspan="8"></td>
                                 </tr>
                                 <tr>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ive">-itive</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> pre </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ive">-itive</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
+                                    <td colspan="8"></td>
                                 </tr>
                                 <tr>
                                     <td colspan="8"></td>
                                 </tr>
                                 <tr>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise[British]</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise[British]</a> </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-[e]able<br />-[e]able</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="3"> - </td>
-                                    <td rowspan="3"> re- </td>
-                                    <td rowspan="3"> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable<br />-isable</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ability">-izablity<br />-isablity</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="2"> un- </td>
-                                    <td rowspan="2"> re- </td>
-                                    <td rowspan="2"> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable<br />-isable</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
                                     <td colspan="8"></td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-izant</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> in </td>
-                                    <td rowspan="2"> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-izant</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> re </td>
-                                    <td rowspan="2"> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-izant</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="8"></td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> in </td>
-                                    <td rowspan="2"> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-to">-ito</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ta">-ita</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
                                 </tr>
                             </table>
                         </li>
