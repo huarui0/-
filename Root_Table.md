@@ -111,6 +111,8 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
+                                </tr>
+                                <tr>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
