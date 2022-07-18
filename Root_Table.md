@@ -98,7 +98,7 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="2"> un </td>
+                                    <td rowspan="2"> un- </td>
                                     <td rowspan="2"> re- </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize</a> </td>
