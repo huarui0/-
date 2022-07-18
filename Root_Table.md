@@ -121,13 +121,13 @@
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise[British]</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable<br />-isable</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -142,7 +142,7 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable<br />-isable</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -157,7 +157,7 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable<br />-isable</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
