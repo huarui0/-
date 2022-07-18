@@ -2,49 +2,40 @@
 ## <a id="english-root-cogn">Root <kbd>cogn</kbd> Note</a>
   * <details open>
         <summary>
-            <i><b>Root - <kbd>cogn</kbd></b></i>
+            <i><b>词根 <kbd>cogn</kbd> 的 含义</b></i>
+            链接: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a> 可查
         </summary>
         <ul style="disc">
-           <li>
-               <details open>
-                   <summary>
-                       <i><b>词根 <kbd>cogn</kbd> 的 含义</b></i>
-                       链接: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a> 可查
-                   </summary>
-                   <ul>
-                       <li>
-                           <!-- <table cellspacing="5"> -->
-                           <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                               <caption>含义和例子</caption>
-                               <tr>
-                                   <th>Root word</th>
-                                   <th>Meanings</th>
-                                   <th>Origin</th>
-                                   <th>Examples and Definitions</th>
-                               </tr>
-                               <tr>
-                                   <th rowspan="3"><kbd>cogn/i</kbd></th>
-                                   <td rowspan="3">know, learn; comprehend, perceive</td>
-                                   <td rowspan="3">Latin</td>
-                                   <td>cognition - process of acquiring knowledge;</td>
-                               </tr>
-                               <tr>
-                                   <td>incognito - disguised so no one knows you;</td>
-                               </tr>
-                               <tr>
-                                   <td>recognize - to discover that one knows/td>
-                               </tr>
-                           </table>
-                       </li>
-                       <li>解释
-                           <ul>
-                               <li>A Latin word meaning ‘to learn’ gives rise to the English word root cogn. Primarily because of French, the root conn also comes from this root. A readily recognizable word that comes to mind which uses this root, is, well, recognize! What else can we acquaint you with to help you ‘learn’ this root?
-                               </li>
-                           </ul>
-                       </li>
-                   </ul>
-               </details>
-           </li>
+            <li>
+                <!-- <table cellspacing="5"> -->
+                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                    <caption>含义和例子</caption>
+                    <tr>
+                        <th>Root word</th>
+                        <th>Meanings</th>
+                        <th>Origin</th>
+                        <th>Examples and Definitions</th>
+                    </tr>
+                    <tr>
+                        <th rowspan="3"><kbd>cogn/i</kbd></th>
+                        <td rowspan="3">know, learn; comprehend, perceive</td>
+                        <td rowspan="3">Latin</td>
+                        <td>cognition - process of acquiring knowledge;</td>
+                    </tr>
+                    <tr>
+                        <td>incognito - disguised so no one knows you;</td>
+                    </tr>
+                    <tr>
+                        <td>recognize - to discover that one knows/td>
+                    </tr>
+                </table>
+            </li>
+            <li>解释
+                <ul>
+                    <li>A Latin word meaning ‘to learn’ gives rise to the English word root cogn. Primarily because of French, the root conn also comes from this root. A readily recognizable word that comes to mind which uses this root, is, well, recognize! What else can we acquaint you with to help you ‘learn’ this root?
+                    </li>
+                </ul>
+            </li>
         </ul>
     </details>
 
