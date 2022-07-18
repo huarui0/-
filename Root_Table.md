@@ -75,12 +75,12 @@
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
-                                    <td>ition</td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td>itional</td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-al">-itional</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
@@ -133,12 +133,12 @@
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-izance</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izant</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-izant</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
