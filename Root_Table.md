@@ -195,7 +195,7 @@
                                 <tr>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
-                                    <td rowspan="2"> cogn </td>
+                                    <td rowspan="4"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -203,6 +203,26 @@
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-izant</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                             
+                                <tr>
+                                    <td> - </td>
+                                    <td> in </td>
+                                    <td rowspan="2"> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                             
+                                <tr>
+                                    <td> - </td>
+                                    <td> re </td>
+                                    <td rowspan="2"> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
