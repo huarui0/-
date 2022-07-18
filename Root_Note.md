@@ -154,8 +154,8 @@
                                    <th>Prefix</th>
                                    <th>Root</th>
                                    <th>Subfix</th>
-                                   <th>Meanings</th>
                                    <th>Explain</th>
+                                   <th>Meanings</th>
                                </tr>
                                <tr>
                                    <td rowspan="2"> - </td>
