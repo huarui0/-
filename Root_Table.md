@@ -44,13 +44,13 @@
             <li>
                 <details open>
                     <summary>
-                        <i><b>与 词根 <kbd>cogn</kbd> 含义关联密切的单词列表</b></i><br />
+                        <i><b>Words meaning closely meets <kbd>cogn</kbd></b></i>
                     </summary>
                     <ul>
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption>词根组成单词表格</caption>
+                                <caption>Words include root <kbd>cogn</kbd></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
