@@ -208,7 +208,6 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                <tr>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> in </td>
                                     <td rowspan="2"> cogn </td>
@@ -234,6 +233,24 @@
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-izant</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="7"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2"> - </td>
+                                    <td rowspan="2"> in </td>
+                                    <td rowspan="2"> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-to">-ito</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ta">-ita</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
