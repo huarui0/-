@@ -70,6 +70,7 @@
                                     <th>Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
+                                    <th>Sample Sentences</th>
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
@@ -78,14 +79,16 @@
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-al">-itional</a> </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="6"></td>
+                                    <td colspan="7"></td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -94,9 +97,10 @@
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ive">-itive</a> </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="6"></td>
+                                    <td colspan="7"></td>
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
@@ -105,9 +109,11 @@
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize</a> </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
@@ -118,9 +124,11 @@
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize</a> </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
@@ -131,14 +139,16 @@
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize</a> </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable</a> </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="6"></td>
+                                    <td colspan="7"></td>
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
@@ -147,9 +157,11 @@
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-izant</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
