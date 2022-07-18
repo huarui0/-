@@ -8,7 +8,7 @@
            <li><kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
                <details open>
                    <summary>
-                       <i><b>词根 <kbd>cogn</kbd> 的 学习</b></i>
+                       <i><b>词根 <kbd>cogn</kbd> 的 含义</b></i>
                        链接: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a> 可查
                    </summary>
                    <ul>
@@ -56,7 +56,7 @@
             <li><kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
                 <details open>
                     <summary>
-                        <i><b>词根 <kbd>cogn</kbd> 的 含义</b></i>
+                        <i><b>词根 <kbd>cogn</kbd> 的 学习</b></i>
                     </summary>
                     <ul>
                         <li>
