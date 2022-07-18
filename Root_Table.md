@@ -296,7 +296,7 @@
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words is similar to <kbd>cogn</kbd></b></i></caption>
+                                <caption><i><b>Words which is similar to <kbd>cogn</kbd></b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -504,15 +504,18 @@
                     </tr>
                     <tr>
                         <th rowspan="3"><kbd>con</kbd></th>
-                        <td rowspan="3">-</td>
+                        <td rowspan="3">sound</td>
                         <td rowspan="3">Latin</td>
-                        <td>-</td>
+                        <td>consonant - a speech sound;</td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td>sonorous - producing loud, full, rich sounds;</td>
                     </tr>
                     <tr>
-                        <td></td>
+                        <td>supersonic - faster than sound;</td>
+                    </tr>
+                    <tr>
+                        <td>unison - as one voice;</td>
                     </tr>
                 </table>
             </li>
@@ -521,9 +524,9 @@
 
 ----
 
-  * <a id="english-root-cogn-table"></a><details open>
+  * <a id="english-root-son-table"></a><details open>
         <summary>
-            <i><b>Root <kbd>cogn</kbd> meanigs: know, learn; comprehend, perceive</b></i>
+            <i><b>Root <kbd>son</kbd> meanigs: sound</b></i>
         </summary>
         <ul style="disc">
             <li>
