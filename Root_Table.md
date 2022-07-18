@@ -110,6 +110,19 @@
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
+                                <tr>
+                                    <td rowspan="2"> - </td>
+                                    <td rowspan="2"> - </td>
+                                    <td rowspan="2"> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-izance</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izant</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
                             </table>
                         </li>
                     </ul>
