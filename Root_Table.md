@@ -5,16 +5,12 @@
             Reference: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a>
         </summary>
         <ul style="disc">
-            <li>
-                <ul>
-                    <li>A Latin word meaning ‘to learn’ gives rise to the English word root cogn. Primarily because of French, the root conn also comes from this root. A readily recognizable word that comes to mind which uses this root, is, well, recognize! What else can we acquaint you with to help you ‘learn’ this root?
-                    </li>
-                </ul>
+            <li>A Latin word meaning ‘to learn’ gives rise to the English word root cogn. Primarily because of French, the root conn also comes from this root. A readily recognizable word that comes to mind which uses this root, is, well, recognize! What else can we acquaint you with to help you ‘learn’ this root?
             </li>
             <li>
                 <!-- <table cellspacing="5"> -->
                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                    <caption>含义和例子</caption>
+                    <caption>Meanings</caption>
                     <tr>
                         <th>Root word</th>
                         <th>Meanings</th>
