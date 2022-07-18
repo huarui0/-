@@ -104,6 +104,13 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
+                                    <td> non- </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/pre-">re-</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
                                     <td colspan="7"></td>
                                 </tr>
                                 <tr>
