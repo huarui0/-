@@ -73,7 +73,7 @@
                                 <tr>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn- </td>
-                                    <td> ize </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">ize</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
