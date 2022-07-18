@@ -52,13 +52,14 @@
 
   * <a id="english-root-cogn-table"></a><details open>
         <summary>
-            <i><b>与 <kbd>cogn</kbd> 含义密切的单词列表</b></i>
+            <i><b>词根 <kbd>cogn</kbd> 的 学习【表格】</b></i>
         </summary>
         <ul style="disc">
-            <li><kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
+            <li>
                 <details open>
                     <summary>
-                        <i><b>词根 <kbd>cogn</kbd> 的 学习</b></i>
+                        <i><b>与 <kbd>cogn</kbd> 含义密切的单词列表</b></i><br />
+                        含义：<kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
                     </summary>
                     <ul>
                         <li>
