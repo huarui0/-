@@ -48,7 +48,9 @@
         </ul>
     </details>
 
-  * <details open>
+----
+
+  * <a id="english-root-cogn-table"></a><details open>
         <summary>
             <i><b>与 <kbd>cogn</kbd> 含义密切的单词列表</b></i>
         </summary>
@@ -262,6 +264,9 @@
             </li>
         </ul>
     </details>
+
+----
+
   * <details open>
         <summary>
          <i><b>Root - <kbd>cogn</kbd></b></i>
