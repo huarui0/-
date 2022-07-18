@@ -134,6 +134,44 @@
            </li>
         </ul>
     </details>
+
+
+  * 列表
+      >了解到：dic词根相当于 to say - 跟说 有关。
+      >dic 词根 跟 dict 词根 同源。dic 的派生词较少，dict 的派生能力却很强。
+      > ——  联想 多记 dict 相关 的 词 会 更有效率。
+      >
+      >例子：
+      >跟 说有关的词：
+      >contra- dict  
+      >                            -ion 
+      >                            -ory
+      >pre- dict
+      >                            -ion
+      >                            -able
+      >male- dict                 mal-、male-
+      >                            -ion
+      >                            -ory
+      >bene- dict
+      >                            -ion
+      >                            -ory
+      >dict
+      >                            -ion
+      >                                     -ary
+      >                            -um
+      >e-dict
+      >in- dict
+      >                 -ment
+      >pre- dic
+      >                -ate
+      >
+      >与说关联不大的词：
+      >ad- dict
+      >                            -ion
+      >dedicate
+
+
+
   * 单词积木 <i><b>Root - <kbd>cogn</kbd></b></i>
     + 
     + ```mermaid
