@@ -10,7 +10,7 @@
             <li>
                 <!-- <table cellspacing="5"> -->
                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                    <caption>Meanings</caption>
+                    <caption>-</caption>
                     <tr>
                         <th>Root word</th>
                         <th>Meanings</th>
