@@ -79,7 +79,7 @@
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td rowspan="2"> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
