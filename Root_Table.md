@@ -88,31 +88,19 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> <a href="https://www.merriam-webster.com/dictionary/pre-">pre-</a> </td>
-                                    <td rowspan="2"> cogn </td>
+                                    <td> - </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/pre-">pre-</a> </td>
+                                    <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-al">-itional</a> </td>
                                     <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> <a href="https://www.merriam-webster.com/dictionary/pre-">re-</a> </td>
-                                    <td rowspan="2"> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/pre-">re-</a> </td>
+                                    <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-al">-itional</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -123,6 +111,15 @@
                                 <tr>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ive">-itive</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> - </td>
+                                    <td> pre </td>
                                     <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ive">-itive</a> </td>
                                     <td> - </td>
