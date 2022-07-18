@@ -88,6 +88,21 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
+                                    <td rowspan="2"> - </td>
+                                    <td rowspan="2"> pre- </td>
+                                    <td rowspan="2"> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-al">-itional</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
                                     <td colspan="7"></td>
                                 </tr>
                                 <tr>
