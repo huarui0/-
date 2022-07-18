@@ -72,13 +72,25 @@
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
-                                    <td rowspan="2"> cogn- </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">ize</a> </td>
+                                    <td rowspan="2"> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">izable</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2"> re- </td>
+                                    <td rowspan="2"> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
