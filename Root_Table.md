@@ -58,7 +58,7 @@
             <li>
                 <details open>
                     <summary>
-                        <i><b>与 词根 <kbd>cogn</kbd> 含义密切的单词列表</b></i><br />
+                        <i><b>与 词根 <kbd>cogn</kbd> 含义关联密切的单词列表</b></i><br />
                     </summary>
                     <ul>
                         <li>
