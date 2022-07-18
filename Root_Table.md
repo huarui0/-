@@ -64,6 +64,7 @@
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                 <caption>词根组合</caption>
                                 <tr>
+                                    <th>Pre-Prefix</th>
                                     <th>Prefix</th>
                                     <th>Root</th>
                                     <th>Suffix</th>
@@ -71,6 +72,7 @@
                                     <th>Meanings</th>
                                 </tr>
                                 <tr>
+                                    <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize</a> </td>
@@ -83,6 +85,20 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
+                                    <td rowspan="2"> - </td>
+                                    <td rowspan="2"> re- </td>
+                                    <td rowspan="2"> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2"> un </td>
                                     <td rowspan="2"> re- </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize</a> </td>
