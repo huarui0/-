@@ -66,7 +66,7 @@
                                 <tr>
                                     <th>Prefix</th>
                                     <th>Root</th>
-                                    <th>Subfix</th>
+                                    <th>Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
                                 </tr>
@@ -78,7 +78,7 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> izable </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">izable</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
