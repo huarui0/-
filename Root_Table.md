@@ -44,7 +44,7 @@
             <li>
                 <details open>
                     <summary>
-                        <i><b>Words meaning closely meets <kbd>cogn</kbd></b></i>
+                        <i><b>Words which meanings closely meets <kbd>cogn</kbd></b></i>
                     </summary>
                     <ul>
                         <li>
