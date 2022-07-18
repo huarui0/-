@@ -152,17 +152,21 @@
                                     <td colspan="8"></td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> cogn </td>
-                                    <td rowspan="2"> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise[British]</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise[British]</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable<br />-isable</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise[British]</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-[e]able<br />-[e]able</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
