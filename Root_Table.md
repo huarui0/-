@@ -70,6 +70,7 @@
                                     <th>Prefix</th>
                                     <th>Root</th>
                                     <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
                                     <th>Sample Sentences</th>
@@ -79,6 +80,7 @@
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -97,12 +99,14 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/pre-">re-</a> </td>
                                     <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -115,6 +119,7 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td colspan="7"></td>
@@ -124,6 +129,7 @@
                                     <td> - </td>
                                     <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ive">-itive</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -136,15 +142,17 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="7"></td>
+                                    <td colspan="8"></td>
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise[British]</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -160,6 +168,7 @@
                                     <td rowspan="3"> re- </td>
                                     <td rowspan="3"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -184,6 +193,7 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable<br />-isable</a> </td>
@@ -192,13 +202,14 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="7"></td>
+                                    <td colspan="8"></td>
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -214,6 +225,7 @@
                                     <td rowspan="2"> in </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -232,6 +244,7 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-izant</a> </td>
@@ -247,6 +260,7 @@
                                     <td rowspan="2"> in </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-to">-ito</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
