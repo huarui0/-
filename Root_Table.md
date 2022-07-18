@@ -2,10 +2,15 @@
 ## <a id="english-root-cogn">Root <kbd>cogn</kbd> Note</a>
   * <details open>
         <summary>
-            <i><b>词根 <kbd>cogn</kbd> 的 含义</b></i>
-            链接: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a> 可查
+            Reference: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a>
         </summary>
         <ul style="disc">
+            <li>
+                <ul>
+                    <li>A Latin word meaning ‘to learn’ gives rise to the English word root cogn. Primarily because of French, the root conn also comes from this root. A readily recognizable word that comes to mind which uses this root, is, well, recognize! What else can we acquaint you with to help you ‘learn’ this root?
+                    </li>
+                </ul>
+            </li>
             <li>
                 <!-- <table cellspacing="5"> -->
                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -29,12 +34,6 @@
                         <td>recognize - to discover that one knows/td>
                     </tr>
                 </table>
-            </li>
-            <li>解释
-                <ul>
-                    <li>A Latin word meaning ‘to learn’ gives rise to the English word root cogn. Primarily because of French, the root conn also comes from this root. A readily recognizable word that comes to mind which uses this root, is, well, recognize! What else can we acquaint you with to help you ‘learn’ this root?
-                    </li>
-                </ul>
             </li>
         </ul>
     </details>
