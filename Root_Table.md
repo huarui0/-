@@ -27,7 +27,7 @@
                         <td>incognito - disguised so no one knows you;</td>
                     </tr>
                     <tr>
-                        <td>recognize - to discover that one knows/td>
+                        <td>recognize - to discover that one knows;</td>
                     </tr>
                 </table>
             </li>
@@ -38,7 +38,7 @@
 
   * <a id="english-root-cogn-table"></a><details open>
         <summary>
-            <i><b>Root <kbd>cogn</kbd> meanigs: know, learn; comprehend, perceive
+            <i><b>Root <kbd>cogn</kbd> meanigs: know, learn; comprehend, perceive</b></i>
         </summary>
         <ul style="disc">
             <li>
@@ -441,52 +441,39 @@
 ----
 
 ----
-## <a id="english-root-cogn">词根 <kbd>son</kbd> 学习 笔记</a>
+
+## <a id="english-root-son">Root <kbd>son</kbd> Note</a>
   * <details open>
         <summary>
-           The Latin root word <i><b><kbd>son</kbd></b></i> means “sound.” This root is the word origin of a fair number of English vocabulary words, including sonar and sonata. The root son is easily recalled through the word sonic, for a sonic boom makes a deafening “sound.”
+            Reference: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a>
         </summary>
         <ul style="disc">
-           <li><kbd>son</kbd>: meanigs know, learn; comprehend, perceive
-               <details open>
-                   <summary>
-                       <i><b>词根 <kbd>cogn</kbd> 的 含义</b></i>
-                       链接: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a> 可查
-                   </summary>
-                   <ul>
-                       <li>
-                           <!-- <table cellspacing="5"> -->
-                           <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                               <caption>含义和例子</caption>
-                               <tr>
-                                   <th>Root word</th>
-                                   <th>Meanings</th>
-                                   <th>Origin</th>
-                                   <th>Examples and Definitions</th>
-                               </tr>
-                               <tr>
-                                   <th rowspan="3"><kbd>cogn/i</kbd></th>
-                                   <td rowspan="3">know, learn; comprehend, perceive</td>
-                                   <td rowspan="3">Latin</td>
-                                   <td>cognition - process of acquiring knowledge;</td>
-                               </tr>
-                               <tr>
-                                   <td>incognito - disguised so no one knows you;</td>
-                               </tr>
-                               <tr>
-                                   <td>recognize - to discover that one knows/td>
-                               </tr>
-                           </table>
-                       </li>
-                       <li>解释
-                           <ul>
-                               <li>A Latin word meaning ‘to learn’ gives rise to the English word root cogn. Primarily because of French, the root conn also comes from this root. A readily recognizable word that comes to mind which uses this root, is, well, recognize! What else can we acquaint you with to help you ‘learn’ this root?
-                               </li>
-                           </ul>
-                       </li>
-                   </ul>
-               </details>
-           </li>
+            <li> - 
+            </li>
+            <li>
+                <!-- <table cellspacing="5"> -->
+                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                    <caption>-</caption>
+                    <tr>
+                        <th>Root word</th>
+                        <th>Meanings</th>
+                        <th>Origin</th>
+                        <th>Examples and Definitions</th>
+                    </tr>
+                    <tr>
+                        <th rowspan="3"><kbd>con</kbd></th>
+                        <td rowspan="3">-</td>
+                        <td rowspan="3">Latin</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                    </tr>
+                    <tr>
+                        <td></td>
+                    </tr>
+                </table>
+            </li>
         </ul>
     </details>
 
@@ -494,39 +481,45 @@
 
   * <a id="english-root-cogn-table"></a><details open>
         <summary>
-            <i><b>词根 <kbd>cogn</kbd> 的 学习【表格】</b></i> - 含义：<kbd>cogn</kbd>: meanigs know, learn; comprehend, perceive
+            <i><b>Root <kbd>cogn</kbd> meanigs: know, learn; comprehend, perceive</b></i>
         </summary>
         <ul style="disc">
             <li>
                 <details open>
                     <summary>
-                        <i><b>与 词根 <kbd>cogn</kbd> 含义关联密切的单词列表</b></i><br />
+                        <i><b>Words which meanings closely meets <kbd>cogn</kbd></b></i>
                     </summary>
                     <ul>
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption>词根组成单词表格</caption>
+                                <caption>Words include root <kbd>cogn</kbd></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
                                     <th>Root</th>
                                     <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
                                     <th>Sample Sentences</th>
                                 </tr>
                                 <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> cogn </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-al">-itional</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-al">-al</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -539,12 +532,14 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/pre-">re-</a> </td>
                                     <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ition</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -557,15 +552,17 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="7"></td>
+                                    <td colspan="8"></td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ive">-itive</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -578,21 +575,27 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="7"></td>
+                                    <td colspan="8"></td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> cogn </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise[British]</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable<br />-isable</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> cogn </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise[British]</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-able">-[e]able<br />-[e]able</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -602,6 +605,7 @@
                                     <td rowspan="3"> re- </td>
                                     <td rowspan="3"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ize">-ize<br />-ise</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -626,6 +630,7 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-able">-izable<br />-isable</a> </td>
@@ -634,13 +639,14 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="7"></td>
+                                    <td colspan="8"></td>
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -656,6 +662,7 @@
                                     <td rowspan="2"> in </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-izance</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -674,6 +681,7 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-izant</a> </td>
@@ -682,13 +690,14 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="7"></td>
+                                    <td colspan="8"></td>
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> in </td>
                                     <td rowspan="2"> cogn </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-to">-ito</a> </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
