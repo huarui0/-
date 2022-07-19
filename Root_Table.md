@@ -588,6 +588,36 @@
                                 </tr>
                                 <tr>
                                     <td> - </td>
+                                    <td> - </td>
+                                    <td> son </td>
+                                    <td> -g </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> son </td>
+                                    <td> -g- </td>
+                                    <td> ster </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> son </td>
+                                    <td> -g- </td>
+                                    <td> -stress </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> - </td>
                                     <td> uni- </td>
                                     <td> son </td>
                                     <td> - </td>
