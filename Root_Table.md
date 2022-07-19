@@ -592,23 +592,58 @@
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> con- </td>
                                     <td rowspan="2"> son </td>
-                                    <td rowspan="2"> <a href="https://www.merriam-webster.com/dictionary/-ar">-ance</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ance</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ant</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
+                                    <td> - </td>
                                 </tr>
+                                <tr>
+                                    <td colspan="8"></td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="2"> - </td>
+                                    <td rowspan="2"> dis- </td>
+                                    <td rowspan="2"> son </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ance</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ant</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td colspan="8"></td>
                                 </tr>
                                 <tr>
-                                    <td colspan="8"></td>
+                                    <td rowspan="2"> - </td>
+                                    <td rowspan="2"> re- [ return ]</td>
+                                    <td rowspan="2"> son </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ance</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ant</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td colspan="8"></td>
