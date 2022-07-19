@@ -869,9 +869,9 @@
                                     <td colspan="8"></td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> eu- </td>
-                                    <td rowspan="2"> phon </td>
+                                    <td> - </td>
+                                    <td> eu- </td>
+                                    <td> phon </td>
                                     <td> -ious </td>
                                     <td> - </td>
                                     <td> - </td>
