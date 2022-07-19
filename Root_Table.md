@@ -281,16 +281,15 @@
                                     <th>Meanings</th>
                                     <th>Sample Sentences</th>
                                 </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> cogn </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-ate</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
+
+                             
+                             
+                             
+                             cognominal
+                             https://www.collinsdictionary.com/dictionary/english/cognate
+                             
+                             
+                             
                             </table>
                         </li>
                         <li>
@@ -307,6 +306,17 @@
                                     <th>Meanings</th>
                                     <th>Sample Sentences</th>
                                 </tr>
+                                <tr>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> cog </td>
+                                    <td> <a href="https://www.collinsdictionary.com/dictionary/english/cognate">-nate</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                             
                             </table>
                         </li>
                     </ul>
