@@ -501,21 +501,26 @@
                         <th>Meanings</th>
                         <th>Origin</th>
                         <th>Examples and Definitions</th>
+                        <th>Examples with Sentence</th>
                     </tr>
                     <tr>
-                        <th rowspan="4"><kbd>con</kbd></th>
+                        <th rowspan="4"><kbd>son</kbd></th>
                         <td rowspan="4">sound</td>
                         <td rowspan="4">Latin</td>
-                        <td>consonant - a speech sound;</td>
+                        <td>consonant - a speech sound;辅音字母</td>
+                        <td> - </td>
                     </tr>
                     <tr>
                         <td>sonorous - producing loud, full, rich sounds;</td>
+                        <td> - </td>
                     </tr>
                     <tr>
                         <td>supersonic - faster than sound;</td>
+                        <td> - </td>
                     </tr>
                     <tr>
                         <td>unison - as one voice;</td>
+                        <td> - </td>
                     </tr>
                 </table>
             </li>
