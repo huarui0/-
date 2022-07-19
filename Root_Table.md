@@ -311,7 +311,7 @@
                                 <tr>
                                     <td> - </td>
                                     <td>co-<br />[same, together]</td>
-                                    <td><a href="https://www.collinsdictionary.com/dictionary/english/cognomen">-gnomen</a><br />[nōmen name]</td>
+                                    <td><a href="https://www.collinsdictionary.com/dictionary/english/cognomen">-gnomen</a><br />[nōmen name]<br />[plural -nomens or -nomina]</td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td>C19: from Latin: additional name, from co- together + nōmen name; influenced in form by cognōscere to learn<br />
