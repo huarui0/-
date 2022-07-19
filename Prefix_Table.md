@@ -1,5 +1,5 @@
 # English Prefix Note
-## <a id="english-prefix-con">Root <kbd>con-</kbd> Note</a>
+## <a id="english-prefix-con">Prefix <kbd>con-</kbd> Note</a>
   * <details open>
         <summary>
             Reference: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a>
