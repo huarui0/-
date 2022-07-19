@@ -814,7 +814,7 @@
                                 </tr>
                                 <tr>
                                     <td> - </td>
-                                    <td> tele- </td>
+                                    <td> micro- </td>
                                     <td> phon </td>
                                     <td> -e </td>
                                     <td> - </td>
@@ -846,17 +846,33 @@
                                     <td colspan="8"></td>
                                 </tr>
                                 <tr>
+                                    <td> - </td>
+                                    <td> caco- </td>
+                                    <td> phon </td>
+                                    <td> -y </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> - </td>
+                                    <td> sym- </td>
+                                    <td> phon </td>
+                                    <td> -y </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="8"></td>
+                                </tr>
+                                <tr>
                                     <td rowspan="2"> - </td>
-                                    <td rowspan="2"> tele- </td>
+                                    <td rowspan="2"> eu- </td>
                                     <td rowspan="2"> phon </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-e</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-ant</a> </td>
+                                    <td> -ious </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -864,43 +880,6 @@
                                 </tr>
                                 <tr>
                                     <td colspan="8"></td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> dis- </td>
-                                    <td rowspan="2"> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-ance</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-ant</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="8"></td>
-                                </tr>
-                                <tr>
-                                    <td rowspan="2"> - </td>
-                                    <td rowspan="2"> re- [ return ]</td>
-                                    <td rowspan="2"> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-ance</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-ant</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
                                 </tr>
                                 <tr>
                                     <td colspan="8"></td>
@@ -920,16 +899,6 @@
                                     <th>Explain</th>
                                     <th>Meanings</th>
                                     <th>Sample Sentences</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-net</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
                                 </tr>
                             </table>
                         </li>
