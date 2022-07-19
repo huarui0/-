@@ -285,7 +285,7 @@
                         </li>
                         <li>
                             <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                            <table border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                 <caption><i><b>Words which is similar to <kbd>cogn</kbd></b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
