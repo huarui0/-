@@ -555,9 +555,29 @@
                                     <th>Sample Sentences</th>
                                 </tr>
                                 <tr>
-                                    <td rowspan="4"> - </td>
-                                    <td rowspan="4"> - </td>
-                                    <td rowspan="4"> son </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> son </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ic</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> - </td>
+                                    <td> super- </td>
+                                    <td> son </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ic</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td rowspan="3"> - </td>
+                                    <td rowspan="3"> - </td>
+                                    <td rowspan="3"> son </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ic</a> </td>
                                     <td> - </td>
                                     <td> - </td>
