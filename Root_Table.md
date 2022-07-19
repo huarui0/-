@@ -293,7 +293,7 @@
                                     <th>Root</th>
                                     <th>Suffix</th>
                                     <th>Sub-Suffix</th>
-                                    <th width="30%">Explain - Word origin</th>
+                                    <th width="50%">Explain - Word origin</th>
                                     <th>Meanings</th>
                                     <th>Example sentences</th>
                                 </tr>
