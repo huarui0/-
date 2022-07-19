@@ -59,7 +59,7 @@
                                     <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
-                                    <th>Sample Sentences</th>
+                                    <th>Example sentences</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -279,17 +279,8 @@
                                     <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
-                                    <th>Sample Sentences</th>
+                                    <th>Example sentences</th>
                                 </tr>
-
-                             
-                             
-                             
-                             cognominal
-                             https://www.collinsdictionary.com/dictionary/english/cognate
-                             
-                             
-                             
                             </table>
                         </li>
                         <li>
@@ -302,17 +293,18 @@
                                     <th>Root</th>
                                     <th>Suffix</th>
                                     <th>Sub-Suffix</th>
-                                    <th>Explain</th>
+                                    <th>Explain - Word origin</th>
                                     <th>Meanings</th>
-                                    <th>Sample Sentences</th>
+                                    <th>Example sentences</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
                                     <td> - </td>
-                                    <td> cog </td>
-                                    <td> <a href="https://www.collinsdictionary.com/dictionary/english/cognate">-nate</a> </td>
+                                    <td> co- [same, together]</td>
+                                    <td> <a href="https://www.collinsdictionary.com/dictionary/english/cognate">-gnate</a> </td>
                                     <td> - </td>
-                                    <td> - </td>
+                                    <td>L cognatus, related by birth < co-, together + gnatus, pp. of gnasci, older form of nasci, to be born: see genus<br />
+                                        C17: from Latin cognātus, from co- same + gnātus born, variant of nātus, past participle of nāscī to be born </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
@@ -562,7 +554,7 @@
                                     <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
-                                    <th>Sample Sentences</th>
+                                    <th>Example sentences</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -698,7 +690,7 @@
                                     <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
-                                    <th>Sample Sentences</th>
+                                    <th>Example sentences</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -724,7 +716,7 @@
                                     <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
-                                    <th>Sample Sentences</th>
+                                    <th>Example sentences</th>
                                 </tr>
                             </table>
                         </li>
@@ -800,7 +792,7 @@
                                     <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
-                                    <th>Sample Sentences</th>
+                                    <th>Example sentences</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -928,7 +920,7 @@
                                     <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
-                                    <th>Sample Sentences</th>
+                                    <th>Example sentences</th>
                                 </tr>
                             </table>
                         </li>
@@ -944,7 +936,7 @@
                                     <th>Sub-Suffix</th>
                                     <th>Explain</th>
                                     <th>Meanings</th>
-                                    <th>Sample Sentences</th>
+                                    <th>Example sentences</th>
                                 </tr>
                             </table>
                         </li>
