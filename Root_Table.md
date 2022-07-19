@@ -660,9 +660,9 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="4"> - </td>
-                                    <td rowspan="4"> - </td>
-                                    <td rowspan="4"> son </td>
+                                    <td rowspan="6"> - </td>
+                                    <td rowspan="6"> - </td>
+                                    <td rowspan="6"> son </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ar</a> </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -677,6 +677,13 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-orous">-orous</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ata">-ata</a> </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -685,6 +692,13 @@
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ogram">-ogram</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ography">-ography</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
