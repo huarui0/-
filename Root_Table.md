@@ -611,7 +611,17 @@
                                     <td> - </td>
                                     <td> son </td>
                                     <td> -g- </td>
-                                    <td> -stress </td>
+                                    <td> stress </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> son </td>
+                                    <td> -g- </td>
+                                    <td> writer </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -668,6 +678,13 @@
                                 </tr>
                                 <tr>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ata">-ata</a> </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ogram">-ogram</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
