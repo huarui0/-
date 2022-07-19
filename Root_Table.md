@@ -586,13 +586,6 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-net</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
                                     <td colspan="8"></td>
                                 </tr>
                                 <tr>
