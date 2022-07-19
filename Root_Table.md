@@ -301,7 +301,7 @@
                                     <td> - </td>
                                     <td> - </td>
                                     <td> co- [same, together]</td>
-                                    <td> <a href="https://www.collinsdictionary.com/dictionary/english/cognate">-gnate</a> </td>
+                                    <td> <a href="https://www.collinsdictionary.com/dictionary/english/cognate">-gnate</a> [to be born]</td>
                                     <td> - </td>
                                     <td>L cognatus, related by birth < co-, together + gnatus, pp. of gnasci, older form of nasci, to be born: see genus<br />
                                         C17: from Latin cognātus, from co- same + gnātus born, variant of nātus, past participle of nāscī to be born </td>
