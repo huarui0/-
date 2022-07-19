@@ -308,8 +308,6 @@
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
-
-                             nomen
                                 <tr>
                                     <td> - </td>
                                     <td></td>
