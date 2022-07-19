@@ -308,6 +308,18 @@
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
+
+                             nomen
+                                <tr>
+                                    <td> - </td>
+                                    <td></td>
+                                    <td><a href="https://www.collinsdictionary.com/dictionary/english/nomen">nomen</a><br />[nōmen name]<br />[plural -nomens or -nomina]</td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td>Latin: a name</td>
+                                    <td> the second of the three names of an ancient Roman, following the praenomen and preceding the cognomen (Ex.: Marcus Tullius Cicero) </td>
+                                    <td> - </td>
+                                </tr>
                                 <tr>
                                     <td> - </td>
                                     <td>co-<br />[same, together]</td>
