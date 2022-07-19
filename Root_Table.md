@@ -814,7 +814,7 @@
                                 </tr>
                                 <tr>
                                     <td> - </td>
-                                    <td> micro-, ear- </td>
+                                    <td> micro-, ear-, head- </td>
                                     <td> phon </td>
                                     <td> -e </td>
                                     <td> - </td>
