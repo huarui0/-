@@ -308,7 +308,6 @@
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
-                             
                                 <tr>
                                     <td> - </td>
                                     <td>co-<br />[same, together]</td>
