@@ -490,7 +490,7 @@
             Reference: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a>
         </summary>
         <ul style="disc">
-            <li> - 
+            <li>The Latin root word son means “sound.” This root is the word origin of a fair number of English vocabulary words, including sonar and sonata. The root son is easily recalled through the word sonic, for a sonic boom makes a deafening “sound.”
             </li>
             <li>
                 <!-- <table cellspacing="5"> -->
