@@ -857,6 +857,26 @@
                                 </tr>
                                 <tr>
                                     <td> - </td>
+                                    <td> caco- </td>
+                                    <td> phon </td>
+                                    <td> -ous </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> - </td>
+                                    <td> caco- </td>
+                                    <td> phon </td>
+                                    <td> -ia </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
+                                <tr>
+                                    <td> - </td>
                                     <td> sym- </td>
                                     <td> phon </td>
                                     <td> -y </td>
