@@ -660,9 +660,9 @@
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="3"> - </td>
-                                    <td rowspan="3"> - </td>
-                                    <td rowspan="3"> son </td>
+                                    <td rowspan="4"> - </td>
+                                    <td rowspan="4"> - </td>
+                                    <td rowspan="4"> son </td>
                                     <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ar</a> </td>
                                     <td> - </td>
                                     <td> - </td>
