@@ -543,7 +543,7 @@
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words which meanings closely meets <kbd>cogn</kbd></b></i></caption>
+                                <caption><i><b>Words which meanings closely meets <kbd>son</kbd></b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -679,7 +679,7 @@
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words which include <kbd>cogn</kbd>， But the meaning doesn't match</b></i></caption>
+                                <caption><i><b>Words which include <kbd>son</kbd>， But the meaning doesn't match</b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -705,7 +705,7 @@
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words which is similar to <kbd>cogn</kbd></b></i></caption>
+                                <caption><i><b>Words which is similar to <kbd>son</kbd></b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -732,7 +732,7 @@
             Reference: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a>
         </summary>
         <ul style="disc">
-            <li> - 
+            <li> The Greek root word phon means “sound.” This word root is the word origin of a number of English vocabulary words, including microphone, phone, and saxophone. An easy way to remember that phon means “sound” is through the word symphony, which is many instruments making a “sound” together.
             </li>
             <li>
                 <!-- <table cellspacing="5"> -->
@@ -746,9 +746,9 @@
                         <th>Examples with Sentence</th>
                     </tr>
                     <tr>
-                        <th rowspan="4"><kbd>phon</kbd></th>
-                        <td rowspan="4">sound</td>
-                        <td rowspan="4">Greek</td>
+                        <th rowspan="3"><kbd>phon</kbd></th>
+                        <td rowspan="3">sound</td>
+                        <td rowspan="3">Greek</td>
                         <td>cacophony - loud, unpleasant sounds;</td>
                         <td> - </td>
                     </tr>
@@ -775,13 +775,13 @@
             <li>
                 <details open>
                     <summary>
-                        Words related to root <kbd>son</kbd>
+                        Words related to root <kbd>phon</kbd>
                     </summary>
                     <ul>
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words which meanings closely meets <kbd>cogn</kbd></b></i></caption>
+                                <caption><i><b>Words which meanings closely meets <kbd>phon</kbd></b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -795,8 +795,8 @@
                                 <tr>
                                     <td> - </td>
                                     <td> - </td>
-                                    <td> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ic</a> </td>
+                                    <td> phon </td>
+                                    <td> -e </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -804,34 +804,40 @@
                                 </tr>
                                 <tr>
                                     <td> - </td>
-                                    <td> super- </td>
-                                    <td> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ic</a> </td>
+                                    <td> tele- </td>
+                                    <td> phon </td>
+                                    <td> -e </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td rowspan="3"> - </td>
-                                    <td rowspan="3"> - </td>
-                                    <td rowspan="3"> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ar</a> </td>
+                                    <td> - </td>
+                                    <td> tele- </td>
+                                    <td> phon </td>
+                                    <td> -e </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ority">-ority</a> </td>
                                     <td> - </td>
+                                    <td> - </td>
+                                    <td> phon </td>
+                                    <td> -e </td>
+                                    <td> -tics </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ata">-ata</a> </td>
                                     <td> - </td>
+                                    <td> - </td>
+                                    <td> phon </td>
+                                    <td> -o- </td>
+                                    <td> -graph </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -841,9 +847,9 @@
                                 </tr>
                                 <tr>
                                     <td rowspan="2"> - </td>
-                                    <td rowspan="2"> con- </td>
-                                    <td rowspan="2"> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-ance</a> </td>
+                                    <td rowspan="2"> tele- </td>
+                                    <td rowspan="2"> phon </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-e</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -904,7 +910,7 @@
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words which include <kbd>cogn</kbd>， But the meaning doesn't match</b></i></caption>
+                                <caption><i><b>Words which include <kbd>phon</kbd>， But the meaning doesn't match</b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -930,7 +936,7 @@
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words which is similar to <kbd>cogn</kbd></b></i></caption>
+                                <caption><i><b>Words which is similar to <kbd>phon</kbd></b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
