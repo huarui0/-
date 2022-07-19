@@ -308,6 +308,18 @@
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
+                             
+                                <tr>
+                                    <td> - </td>
+                                    <td>co-<br />[same, together]</td>
+                                    <td><a href="https://www.collinsdictionary.com/dictionary/english/cognomen">-gnomen</a><br />[nōmen name]</td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td>C19: from Latin: additional name, from co- together + nōmen name; influenced in form by cognōscere to learn<br />
+                                        [1800–10; ‹ L, equiv. to co- co- + nōmen name, with -g- on model of nōscī: cognōscī; see cognition]</td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>
                             </table>
                         </li>
                     </ul>
