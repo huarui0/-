@@ -578,28 +578,21 @@
                                     <td rowspan="3"> - </td>
                                     <td rowspan="3"> - </td>
                                     <td rowspan="3"> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ic</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ar</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ar</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ority">-ority</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ority</a> </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ata</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ata">-ata</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -612,14 +605,14 @@
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> con- </td>
                                     <td rowspan="2"> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ance</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-ance</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ant</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-ant</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -632,14 +625,14 @@
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> dis- </td>
                                     <td rowspan="2"> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ance</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-ance</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ant</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-ant</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
@@ -652,14 +645,14 @@
                                     <td rowspan="2"> - </td>
                                     <td rowspan="2"> re- [ return ]</td>
                                     <td rowspan="2"> son </td>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ar">-ance</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ance">-ance</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                 </tr>
                                 <tr>
-                                    <td> <a href="https://www.merriam-webster.com/dictionary/-tion">-ant</a> </td>
+                                    <td> <a href="https://www.merriam-webster.com/dictionary/-ant">-ant</a> </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
