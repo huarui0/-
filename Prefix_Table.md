@@ -86,6 +86,13 @@
                                     <td colspan="5"></td>
                                 </tr>
                                 <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
+                                </tr>
+                                <tr>
                                     <td> - </td>
                                     <td> con- </td>
                                     <td> ciliate </td>
