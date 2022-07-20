@@ -26,8 +26,8 @@
                         <th rowspan="2">con-<br />[a variant of com-]</th>
                         <td>together; with; jointly</td>
                         <td rowspan="2">Latin</td>
-                        <td> - </td>
-                        <td> - </td>
+                        <td> concerted : mutually contrived or agreed on </td>
+                        <td> We remain cautiously optimistic that with increased federal funding and <kbd><b>concerted</b></kbd> efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
                     </tr>
                     <tr>
                         <td>commingle</td>
