@@ -62,9 +62,6 @@
                                     <th>Root</th>
                                     <th>Suffix</th>
                                     <th>Sub-Suffix</th>
-                                    <th>Explain</th>
-                                    <th>Meanings</th>
-                                    <th>Example sentences</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -72,10 +69,18 @@
                                     <td> certed </td>
                                     <td> - </td>
                                     <td> - </td>
-                                    <td> - </td>
-                                    <td> involving the joint activity of two or more </td>
-                                    <td> We remain cautiously optimistic that with increased federal funding and concerted efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
                                 </tr>   
+                                <tr>
+                                    <th>Explain</th>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="7"> involving the joint activity of two or more </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="7"> We remain cautiously optimistic that with increased federal funding and concerted efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
+                                </tr>
                                 <tr>
                                     <td colspan="8"></td>
                                 </tr>
