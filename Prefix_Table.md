@@ -815,7 +815,7 @@ easy to deal with </td>
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>conciliate</kbd></b></i>
+                                    <i><b><kbd>inconspicuous</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -835,11 +835,89 @@ easy to deal with </td>
                                     </tr>
                                     <tr>
                                         <th>Explain</th>
-                                        <td colspan="4"> - </td>
+                                        <td colspan="4"> Something that is inconspicuous does not attract attention and is not easily seen or noticed because it is small or ordinary. </td>
                                     </tr>                             
                                     <tr>
                                         <th>Meanings</th>
-                                        <td colspan="4"> Something that is inconspicuous does not attract attention and is not easily seen or noticed because it is small or ordinary. </td>
+                                        <td colspan="4"> - </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>intransigent</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> in- </td>
+                                        <td> transigent </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> An intransigent person is stubborn; thus, they refuse to change their ideas or behavior, often in a way that seems unreasonable. </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> not attract attention and is not easily seen or noticed because it is small or ordinary. </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>innocuous</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> in- </td>
+                                        <td> nocuous </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> Something innocuous is not likely to offend or harm anyone. </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> - </td>
                                     </tr>                   
                                     <tr>
                                         <th>Example sentences</th>
