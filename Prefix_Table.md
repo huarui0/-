@@ -5,7 +5,11 @@
             Reference: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a>
         </summary>
         <ul style="disc">
-            <li>: with : together : jointly —usually com- before b, p, or m
+            <li>
+                <ul style="disc">
+                    <li>: with : together : jointly —usually com- before b, p, or m</li>
+                    <li>commingle</li>
+                </ul>
             </li>
             <li>
                 <!-- <table cellspacing="5"> -->
