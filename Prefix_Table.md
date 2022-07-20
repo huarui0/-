@@ -92,376 +92,384 @@
                             </details>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> ciliate </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> - </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> ciliate </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> ciliation </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> - </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> ciliation </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> ciliative </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> - </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> ciliative </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> ciliator </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> - </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> ciliator </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> ciliatory </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> intended to placate </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> Some took a conciliatory approach to passengers, apologizing and trying to reunite travelers separated from their loved ones. </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> ciliatory </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> intended to placate </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> Some took a conciliatory approach to passengers, apologizing and trying to reunite travelers separated from their loved ones. </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> current </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> - </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> current </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> current </td>
-                                    <td> -ly </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> overlapping in duration </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> And again, sun protective clothing is meant to work concurrently with a proper sunscreen regime. </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> current </td>
+                                        <td> -ly </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> overlapping in duration </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> And again, sun protective clothing is meant to work concurrently with a proper sunscreen regime. </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> flate </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> mix together different elements </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> And most critical to the current crisis, they do not conflate what happened to them last year with what is happening now. </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> flate </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> mix together different elements </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> And most critical to the current crisis, they do not conflate what happened to them last year with what is happening now. </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> formity </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> compliance with accepted standards, rules, or norms </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> The clinics responded “not by bringing their practice into conformity” with “current good manufacturing practice,” as is required of drug manufacturers, “but by arguing that they were exempt from FDA regulation.” </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> formity </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> compliance with accepted standards, rules, or norms </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> The clinics responded “not by bringing their practice into conformity” with “current good manufacturing practice,” as is required of drug manufacturers, “but by arguing that they were exempt from FDA regulation.” </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
                         </li>
                         <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> glomerate </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> a group of diverse companies under common ownership </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> Its main shareholder, Swire Pacific, is one of Asia’s largest conglomerates, with extensive interests in China including property, beverages and trading. </td>
-                                </tr>
-                            </table>
-                        </li>
-                        <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words which include <kbd>phon</kbd>， But the meaning doesn't match</b></i></caption>
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                    <th>Explain</th>
-                                    <th>Meanings</th>
-                                    <th>Example sentences</th>
-                                </tr>
-                            </table>
-                        </li>
-                        <li>
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words which is similar to <kbd>phon</kbd></b></i></caption>
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                    <th>Explain</th>
-                                    <th>Meanings</th>
-                                    <th>Example sentences</th>
-                                </tr>
-                            </table>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> glomerate </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> a group of diverse companies under common ownership </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> Its main shareholder, Swire Pacific, is one of Asia’s largest conglomerates, with extensive interests in China including property, beverages and trading. </td>
+                                    </tr>
+                                </table>
                         </li>
                     </ol>
                 </details>
+            </li>
+            <li>
+                <!-- <table cellspacing="5"> -->
+                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                    <caption><i><b>Words which include <kbd>phon</kbd>， But the meaning doesn't match</b></i></caption>
+                    <tr>
+                        <th>Pre-Prefix</th>
+                        <th>Prefix</th>
+                        <th>Root</th>
+                        <th>Suffix</th>
+                        <th>Sub-Suffix</th>
+                        <th>Explain</th>
+                        <th>Meanings</th>
+                        <th>Example sentences</th>
+                    </tr>
+                </table>
+            </li>
+            <li>
+                <!-- <table cellspacing="5"> -->
+                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                    <caption><i><b>Words which is similar to <kbd>phon</kbd></b></i></caption>
+                    <tr>
+                        <th>Pre-Prefix</th>
+                        <th>Prefix</th>
+                        <th>Root</th>
+                        <th>Suffix</th>
+                        <th>Sub-Suffix</th>
+                        <th>Explain</th>
+                        <th>Meanings</th>
+                        <th>Example sentences</th>
+                    </tr>
+                </table>
             </li>
         </ul>
     </details>
