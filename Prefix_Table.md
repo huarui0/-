@@ -51,11 +51,10 @@
                     <summary>
                         <i><b>Prefixs which meanings closely meets <kbd>con-</kbd></b></i>
                     </summary>
-                    <ol>
+                    <ol type="1">
                         <li> concerted
                             <!-- <table cellspacing="5"> -->
-                            <table bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption>con- certed</caption>
+                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -89,7 +88,7 @@
                         </li>
                         <li>
                             <!-- <table cellspacing="5"> -->
-                            <table bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -119,6 +118,11 @@
                                 <tr>
                                     <td colspan="5"></td>
                                 </tr>
+                            </table>
+                        </li>
+                        <li>
+                            <!-- <table cellspacing="5"> -->
+                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
