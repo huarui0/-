@@ -54,7 +54,7 @@
                     <ul>
                         <li>
                             <!-- <table cellspacing="5"> -->
-                            <table border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                            <table bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                 <caption><i><b>Prefixs which meanings closely meets <kbd>con-</kbd></b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
