@@ -289,7 +289,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>concurrent</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -328,7 +328,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>concurrently</kbd></b></i> : overlapping in duration
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -367,7 +367,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>conflate</kbd></b></i> : mix together different elements
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -406,7 +406,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>conformity</kbd></b></i> : compliance with accepted standards, rules, or norms
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -445,7 +445,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>conglomerate</kbd></b></i> : a group of diverse companies under common ownership
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
