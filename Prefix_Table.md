@@ -94,7 +94,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>conciliate</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -133,7 +133,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>conciliation</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -172,7 +172,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>conciliative</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -211,7 +211,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>conciliator</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -250,7 +250,7 @@
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>concerted</kbd></b></i>
+                                    <i><b><kbd>conciliatory</kbd></b></i> : intended to placate
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
