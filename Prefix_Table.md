@@ -722,16 +722,16 @@
                         <th>Examples with Sentence</th>
                     </tr>
                     <tr>
-                        <th rowspan="2">in-</th>
-                        <td>The prefix in, which means “in, on, or not,”</td>
-                        <td rowspan="2">Latin</td>
-                        <td> concerted : mutually contrived or agreed on </td>
-                        <td> We remain cautiously optimistic that with increased federal funding and <kbd><b>concerted</b></kbd> efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
+                        <th>in-</th>
+                        <td>in or on</td>
+                        <td>Latin</td>
+                        <td> - </td>
+                        <td> - </td>
                     </tr>
                     <tr>
-                        <td>commingle</td>
-                        <td> made or done together; </td>
-                        <td> The slowdown was a concerted action by the workers. </td>
+                        <td>not</td>
+                        <td> - </td>
+                        <td> - </td>
                     </tr>
                 </table>
             </li>
