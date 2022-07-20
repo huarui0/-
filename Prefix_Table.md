@@ -722,9 +722,9 @@
                         <th>Examples with Sentence</th>
                     </tr>
                     <tr>
-                        <th>in-</th>
+                        <th rowspan="2">in-</th>
                         <td>in or on</td>
-                        <td>Latin</td>
+                        <td rowspan="2"> - </td>
                         <td> - </td>
                         <td> - </td>
                     </tr>
