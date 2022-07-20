@@ -702,7 +702,7 @@
 ## <a id="english-prefix-in">Prefix <kbd>in-</kbd> Note</a>
   * <details open>
         <summary>
-            Reference: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a>
+            Reference: <a href="https://membean.com/roots/in-not">Prefixes and the Prefix "In"</a>
         </summary>
         <ul style="disc">
             <li>
@@ -722,10 +722,22 @@
                         <th>Examples with Sentence</th>
                     </tr>
                     <tr>
-                        <th rowspan="2">in-</th>
-                        <td>in or on</td>
-                        <td rowspan="2"> - </td>
+                        <th rowspan="5">in-</th>
+                        <td rowspan="4">in or on</td>
+                        <td rowspan="5"> - </td>
+                        <td> inject : to throw “in” </td>
                         <td> - </td>
+                    </tr>
+                    <tr>
+                        <td> influx : to flow “in” </td>
+                        <td> - </td>
+                    </tr>
+                    <tr>
+                        <td> inscribe : to write “on,” </td>
+                        <td> - </td>
+                    </tr>
+                    <tr>
+                        <td> invoke : to call “on.” </td>
                         <td> - </td>
                     </tr>
                     <tr>
