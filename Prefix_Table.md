@@ -177,13 +177,13 @@
                                 </tr>
                                 <tr>
                                     <td> - </td>
-                                    <td> eu- </td>
-                                    <td> phon </td>
-                                    <td> -ious </td>
+                                    <td> con- </td>
+                                    <td> glomerate </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
-                                    <td> - </td>
+                                    <td> a group of diverse companies under common ownership </td>
+                                    <td> Its main shareholder, Swire Pacific, is one of Asia’s largest conglomerates, with extensive interests in China including property, beverages and trading. </td>
                                 </tr>
                                 <tr>
                                     <td colspan="8"></td>
