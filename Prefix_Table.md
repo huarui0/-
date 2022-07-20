@@ -707,7 +707,7 @@
         <ul style="disc">
             <li>
                 <ul style="disc">
-                    <li>: The prefix in, which means “in, on, or not,”</li>
+                    <li>: The prefix in, which means “in, on, into, or not,”</li>
                 </ul>
             </li>
             <li>
@@ -723,7 +723,7 @@
                     </tr>
                     <tr>
                         <th rowspan="5">in-</th>
-                        <td rowspan="4">in or on</td>
+                        <td rowspan="4">in, on or into</td>
                         <td rowspan="5"> - </td>
                         <td> inject : to throw “in” </td>
                         <td> - </td>
@@ -741,8 +741,16 @@
                         <td> - </td>
                     </tr>
                     <tr>
-                        <td>not</td>
+                        <td rowspan="3">not</td>
+                        <td> insane : “not” sane </td>
                         <td> - </td>
+                    </tr>
+                    <tr>
+                        <td> independent : “not” dependent </td>
+                        <td> - </td>
+                    </tr>
+                    <tr>
+                        <td> invalid : “not” valid </td>
                         <td> - </td>
                     </tr>
                 </table>
@@ -751,3 +759,132 @@
     </details>
 
 ----
+
+  * <a id="english-prefix-in-table"></a><details open>
+        <summary>
+            <i><b>Prefix <kbd>in-</kbd> meanigs: in, on, into<br />not</b></i>
+        </summary>
+        <ul style="disc">
+            <li>
+                <details open>
+                    <summary>
+                        <i><b>Prefixs which meanings closely meets <kbd>in-</kbd></b></i>
+                    </summary>
+                    <ol type="1">
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>intractable</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> in- </td>
+                                        <td> tractable </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> tractable : 
+easy to deal with, <br />while intractable : "not" 
+easy to deal with </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> very difficult or impossible to deal with. </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> Intractable problems, situations, or people </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>conciliate</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> in- </td>
+                                        <td> conspicuous </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> Something that is inconspicuous does not attract attention and is not easily seen or noticed because it is small or ordinary. </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
+                    </ol>
+                </details>
+            </li>
+            <li>
+                <!-- <table cellspacing="5"> -->
+                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                    <caption><i><b>Prefixs which include <kbd>in-</kbd>， But the meaning doesn't match</b></i></caption>
+                    <tr>
+                        <th>Pre-Prefix</th>
+                        <th>Prefix</th>
+                        <th>Root</th>
+                        <th>Suffix</th>
+                        <th>Sub-Suffix</th>
+                        <th>Explain</th>
+                        <th>Meanings</th>
+                        <th>Example sentences</th>
+                    </tr>
+                </table>
+            </li>
+            <li>
+                <!-- <table cellspacing="5"> -->
+                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                    <caption><i><b>Prefixs which is similar to <kbd>in-</kbd></b></i></caption>
+                    <tr>
+                        <th>Pre-Prefix</th>
+                        <th>Prefix</th>
+                        <th>Root</th>
+                        <th>Suffix</th>
+                        <th>Sub-Suffix</th>
+                        <th>Explain</th>
+                        <th>Meanings</th>
+                        <th>Example sentences</th>
+                    </tr>
+                </table>
+            </li>
+        </ul>
+    </details>
