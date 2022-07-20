@@ -478,6 +478,192 @@
                                 </table>
                             </details>
                         </li>
+                     
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>congregate</kbd></b></i> : come together, usually for a purpose
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> gregate </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> come together, usually for a purpose </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> After we first arrived, the children congregated outside our house each and every morning, which confused us. </td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
+                     
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>consensus</kbd></b></i> : agreement in the judgment reached by a group as a whole
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> sensus </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> agreement in the judgment reached by a group as a whole </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> I saw no unity of purpose, no consensus on matters of philosophy or history or law. </td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
+                     
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>consensus</kbd></b></i> : agreement in the judgment reached by a group as a whole
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> sensus </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> agreement in the judgment reached by a group as a whole </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> I saw no unity of purpose, no consensus on matters of philosophy or history or law. </td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>  
+                     
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>conspire</kbd></b></i> : act in agreement and in secret towards a deceitful purpose
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> spire </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> act in agreement and in secret towards a deceitful purpose </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> The two companies conspired to cause the value of the stock to fall </td>
+                                        <td colspan="4"> They conspired to overthrow the government” </td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
+                     
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>converge</kbd></b></i> : move or draw together at a certain location
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> verge </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> move or draw together at a certain location </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> We finally reach the French port, and once all the smaller groups of refugees converge, we're four thousand strong. </td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
                     </ol>
                 </details>
             </li>
