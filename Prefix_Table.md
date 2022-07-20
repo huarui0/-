@@ -85,6 +85,11 @@
                                 <tr>
                                     <td colspan="5"></td>
                                 </tr>
+                            </table>
+                        </li>
+                        <li>
+                            <!-- <table cellspacing="5"> -->
+                            <table bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -371,12 +376,6 @@
                                 <tr>
                                     <th>Example sentences</th>
                                     <td colspan="4"> Its main shareholder, Swire Pacific, is one of Asia’s largest conglomerates, with extensive interests in China including property, beverages and trading. </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
                                 </tr>
                             </table>
                         </li>
