@@ -52,39 +52,44 @@
                         <i><b>Prefixs which meanings closely meets <kbd>con-</kbd></b></i>
                     </summary>
                     <ol type="1">
-                        <li> concerted
-                            <!-- <table cellspacing="5"> -->
-                            <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <tr>
-                                    <th>Pre-Prefix</th>
-                                    <th>Prefix</th>
-                                    <th>Root</th>
-                                    <th>Suffix</th>
-                                    <th>Sub-Suffix</th>
-                                </tr>
-                                <tr>
-                                    <td> - </td>
-                                    <td> con- </td>
-                                    <td> certed </td>
-                                    <td> - </td>
-                                    <td> - </td>
-                                </tr>
-                                <tr>
-                                    <th>Explain</th>
-                                    <td colspan="4"> - </td>
-                                </tr>                             
-                                <tr>
-                                    <th>Meanings</th>
-                                    <td colspan="4"> involving the joint activity of two or more </td>
-                                </tr>                   
-                                <tr>
-                                    <th>Example sentences</th>
-                                    <td colspan="4"> We remain cautiously optimistic that with increased federal funding and concerted efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
-                                </tr>
-                                <tr>
-                                    <td colspan="5"></td>
-                                </tr>
-                            </table>
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> con- </td>
+                                        <td> certed </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> involving the joint activity of two or more </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> We remain cautiously optimistic that with increased federal funding and concerted efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
+                            </details>
                         </li>
                         <li>
                             <!-- <table cellspacing="5"> -->
