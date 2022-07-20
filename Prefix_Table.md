@@ -19,7 +19,7 @@
                         <th>Examples with Sentence</th>
                     </tr>
                     <tr>
-                        <th rowspan="2"><kbd>con- [a variant of com-]</kbd></th>
+                        <th rowspan="2">con-<br />[a variant of com-]</th>
                         <td>together; with; jointly</td>
                         <td rowspan="2">Latin</td>
                         <td> - </td>
