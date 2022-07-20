@@ -31,8 +31,8 @@
                     </tr>
                     <tr>
                         <td>commingle</td>
-                        <td> - </td>
-                        <td> - </td>
+                        <td> concerted : performed in unison </td>
+                        <td> The slowdown was a concerted action by the workers. </td>
                     </tr>
                 </table>
             </li>
