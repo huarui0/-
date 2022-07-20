@@ -12,25 +12,22 @@
                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                     <caption>-</caption>
                     <tr>
-                        <th>Root word</th>
+                        <th>Prefix</th>
                         <th>Meanings</th>
                         <th>Origin</th>
                         <th>Examples and Definitions</th>
                         <th>Examples with Sentence</th>
                     </tr>
                     <tr>
-                        <th rowspan="3"><kbd>phon</kbd></th>
-                        <td rowspan="3">sound</td>
-                        <td rowspan="3">Greek</td>
-                        <td>cacophony - loud, unpleasant sounds;</td>
+                        <th rowspan="2"><kbd>con- [a variant of com-]</kbd></th>
+                        <td>together; with; jointly</td>
+                        <td rowspan="2">Latin</td>
+                        <td> - </td>
                         <td> - </td>
                     </tr>
                     <tr>
-                        <td>microphone - a device that records and amplifies sound;</td>
+                        <td>commingle</td>
                         <td> - </td>
-                    </tr>
-                    <tr>
-                        <td>phonetic - relating to human speech sounds.</td>
                         <td> - </td>
                     </tr>
                 </table>
