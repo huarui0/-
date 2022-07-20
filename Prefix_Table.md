@@ -478,7 +478,6 @@
                                 </table>
                             </details>
                         </li>
-                     
                         <li>
                             <details open>
                                 <summary>
@@ -515,7 +514,6 @@
                                 </table>
                             </details>
                         </li>
-                     
                         <li>
                             <details open>
                                 <summary>
@@ -552,7 +550,6 @@
                                 </table>
                             </details>
                         </li>
-                     
                         <li>
                             <details open>
                                 <summary>
@@ -588,8 +585,7 @@
                                     </tr>
                                 </table>
                             </details>
-                        </li>  
-                     
+                        </li>
                         <li>
                             <details open>
                                 <summary>
@@ -627,7 +623,6 @@
                                 </table>
                             </details>
                         </li>
-                     
                         <li>
                             <details open>
                                 <summary>
