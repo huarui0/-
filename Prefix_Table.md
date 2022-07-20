@@ -128,6 +128,7 @@
                                         <td colspan="5"></td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                         <li>
                             <details open>
@@ -166,8 +167,13 @@
                                         <td colspan="5"></td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                         <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                     <tr>
@@ -200,8 +206,13 @@
                                         <td colspan="5"></td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                         <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                     <tr>
@@ -234,8 +245,13 @@
                                         <td colspan="5"></td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                         <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                     <tr>
@@ -268,8 +284,13 @@
                                         <td colspan="5"></td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                         <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                     <tr>
@@ -302,8 +323,13 @@
                                         <td colspan="5"></td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                         <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                     <tr>
@@ -336,8 +362,13 @@
                                         <td colspan="5"></td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                         <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                     <tr>
@@ -370,8 +401,13 @@
                                         <td colspan="5"></td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                         <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                     <tr>
@@ -404,8 +440,13 @@
                                         <td colspan="5"></td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                         <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>concerted</kbd></b></i>
+                                </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
                                     <tr>
@@ -435,6 +476,7 @@
                                         <td colspan="4"> Its main shareholder, Swire Pacific, is one of Asia’s largest conglomerates, with extensive interests in China including property, beverages and trading. </td>
                                     </tr>
                                 </table>
+                            </details>
                         </li>
                     </ol>
                 </details>
