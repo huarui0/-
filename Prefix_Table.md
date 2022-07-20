@@ -75,14 +75,14 @@
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
-                                    <td colspan="7"> involving the joint activity of two or more </td>
+                                    <td colspan="5"> involving the joint activity of two or more </td>
                                 </tr>                             
                                 <tr>
                                     <th>Example sentences</th>
-                                    <td colspan="7"> We remain cautiously optimistic that with increased federal funding and concerted efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
+                                    <td colspan="5"> We remain cautiously optimistic that with increased federal funding and concerted efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="8"></td>
+                                    <td colspan="5"></td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
