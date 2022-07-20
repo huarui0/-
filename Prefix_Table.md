@@ -442,7 +442,7 @@
             <li>
                 <!-- <table cellspacing="5"> -->
                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                    <caption><i><b>Words which include <kbd>phon</kbd>， But the meaning doesn't match</b></i></caption>
+                    <caption><i><b>Prefixs which include <kbd>con-</kbd>， But the meaning doesn't match</b></i></caption>
                     <tr>
                         <th>Pre-Prefix</th>
                         <th>Prefix</th>
@@ -458,7 +458,7 @@
             <li>
                 <!-- <table cellspacing="5"> -->
                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                    <caption><i><b>Words which is similar to <kbd>phon</kbd></b></i></caption>
+                    <caption><i><b>Prefixs which is similar to <kbd>con-</kbd></b></i></caption>
                     <tr>
                         <th>Pre-Prefix</th>
                         <th>Prefix</th>
