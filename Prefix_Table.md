@@ -41,21 +41,21 @@
 
 ----
 
-  * <a id="english-root-phon-table"></a><details open>
+  * <a id="english-prefix-con-table"></a><details open>
         <summary>
-            <i><b>Root <kbd>phon</kbd> meanigs: sound</b></i>
+            <i><b>Prefix <kbd>con-</kbd> meanigs: with : together : jointly —usually com- before b, p, or m<br />commingle</b></i>
         </summary>
         <ul style="disc">
             <li>
                 <details open>
                     <summary>
-                        Words related to root <kbd>phon</kbd>
+                        Words related to prefix <kbd>con-</kbd>
                     </summary>
                     <ul>
                         <li>
                             <!-- <table cellspacing="5"> -->
                             <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
-                                <caption><i><b>Words which meanings closely meets <kbd>phon</kbd></b></i></caption>
+                                <caption><i><b>Prefixs which meanings closely meets <kbd>con-</kbd></b></i></caption>
                                 <tr>
                                     <th>Pre-Prefix</th>
                                     <th>Prefix</th>
@@ -68,9 +68,19 @@
                                 </tr>
                                 <tr>
                                     <td> - </td>
+                                    <td> con- </td>
+                                    <td> certed </td>
                                     <td> - </td>
-                                    <td> phon </td>
-                                    <td> -e </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                    <td> - </td>
+                                </tr>                             
+                                <tr>
+                                    <td> - </td>
+                                    <td> con- </td>
+                                    <td> ciliate </td>
+                                    <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
                                     <td> - </td>
