@@ -72,7 +72,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -101,7 +101,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -123,7 +123,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -142,7 +142,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -161,7 +161,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -180,7 +180,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -202,7 +202,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -240,7 +240,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -262,7 +262,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -284,7 +284,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
