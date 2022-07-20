@@ -698,3 +698,44 @@
     </details>
 
 ----
+
+## <a id="english-prefix-in">Prefix <kbd>in-</kbd> Note</a>
+  * <details open>
+        <summary>
+            Reference: <a href="https://www.learnthat.org/pages/view/roots.html">Root Words & Prefixes: Quick Reference</a>
+        </summary>
+        <ul style="disc">
+            <li>
+                <ul style="disc">
+                    <li>: The prefix in, which means “in, on, or not,”</li>
+                </ul>
+            </li>
+            <li>
+                <!-- <table cellspacing="5"> -->
+                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                    <caption>-</caption>
+                    <tr>
+                        <th>Prefix</th>
+                        <th>Meanings</th>
+                        <th>Origin</th>
+                        <th>Examples and Definitions</th>
+                        <th>Examples with Sentence</th>
+                    </tr>
+                    <tr>
+                        <th rowspan="2">in-</th>
+                        <td>The prefix in, which means “in, on, or not,”</td>
+                        <td rowspan="2">Latin</td>
+                        <td> concerted : mutually contrived or agreed on </td>
+                        <td> We remain cautiously optimistic that with increased federal funding and <kbd><b>concerted</b></kbd> efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
+                    </tr>
+                    <tr>
+                        <td>commingle</td>
+                        <td> made or done together; </td>
+                        <td> The slowdown was a concerted action by the workers. </td>
+                    </tr>
+                </table>
+            </li>
+        </ul>
+    </details>
+
+----
