@@ -244,17 +244,29 @@
                                     <td colspan="4"> And most critical to the current crisis, they do not conflate what happened to them last year with what is happening now. </td>
                                 </tr>
                                 <tr>
+                                    <td colspan="5"></td>
+                                </tr>
+                                <tr>
                                     <td> - </td>
                                     <td> con- </td>
                                     <td> formity </td>
                                     <td> - </td>
                                     <td> - </td>
-                                    <td> - </td>
-                                    <td> compliance with accepted standards, rules, or norms </td>
-                                    <td> The clinics responded “not by bringing their practice into conformity” with “current good manufacturing practice,” as is required of drug manufacturers, “but by arguing that they were exempt from FDA regulation.” </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="8"></td>
+                                    <th>Explain</th>
+                                    <td> - </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> compliance with accepted standards, rules, or norms </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> The clinics responded “not by bringing their practice into conformity” with “current good manufacturing practice,” as is required of drug manufacturers, “but by arguing that they were exempt from FDA regulation.” </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="5"></td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -262,15 +274,24 @@
                                     <td> glomerate </td>
                                     <td> - </td>
                                     <td> - </td>
+                                </tr>
+                                <tr>
+                                    <th>Explain</th>
                                     <td> - </td>
-                                    <td> a group of diverse companies under common ownership </td>
-                                    <td> Its main shareholder, Swire Pacific, is one of Asia’s largest conglomerates, with extensive interests in China including property, beverages and trading. </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> a group of diverse companies under common ownership </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> Its main shareholder, Swire Pacific, is one of Asia’s largest conglomerates, with extensive interests in China including property, beverages and trading. </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="8"></td>
+                                    <td colspan="5"></td>
                                 </tr>
                                 <tr>
-                                    <td colspan="8"></td>
+                                    <td colspan="5"></td>
                                 </tr>
                             </table>
                         </li>
