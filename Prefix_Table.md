@@ -69,17 +69,18 @@
                                     <td> certed </td>
                                     <td> - </td>
                                     <td> - </td>
-                                </tr>   
+                                </tr>
                                 <tr>
                                     <th>Explain</th>
+                                    <td> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
-                                    <td colspan="5"> involving the joint activity of two or more </td>
-                                </tr>                             
+                                    <td colspan="4"> involving the joint activity of two or more </td>
+                                </tr>                   
                                 <tr>
                                     <th>Example sentences</th>
-                                    <td colspan="5"> We remain cautiously optimistic that with increased federal funding and concerted efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
+                                    <td colspan="4"> We remain cautiously optimistic that with increased federal funding and concerted efforts of thousands of physicians, scientists, patients and patient advocates, that breakthroughs in terms in treatment are more likely to occur than ever before. </td>
                                 </tr>
                                 <tr>
                                     <td colspan="5"></td>
@@ -90,9 +91,21 @@
                                     <td> ciliate </td>
                                     <td> - </td>
                                     <td> - </td>
+                                </tr>
+                                <tr>
+                                    <th>Explain</th>
                                     <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> - </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> - </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="5"></td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -100,9 +113,18 @@
                                     <td> ciliation </td>
                                     <td> - </td>
                                     <td> - </td>
+                                </tr>
+                                <tr>
+                                    <th>Explain</th>
                                     <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> - </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> - </td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -110,9 +132,18 @@
                                     <td> ciliative </td>
                                     <td> - </td>
                                     <td> - </td>
+                                </tr>
+                                <tr>
+                                    <th>Explain</th>
                                     <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> - </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> - </td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -120,9 +151,18 @@
                                     <td> ciliator </td>
                                     <td> - </td>
                                     <td> - </td>
+                                </tr>
+                                <tr>
+                                    <th>Explain</th>
                                     <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> - </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> - </td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -130,12 +170,21 @@
                                     <td> ciliatory </td>
                                     <td> - </td>
                                     <td> - </td>
-                                    <td> - </td>
-                                    <td> intended to placate </td>
-                                    <td> Some took a conciliatory approach to passengers, apologizing and trying to reunite travelers separated from their loved ones. </td>
                                 </tr>
                                 <tr>
-                                    <td colspan="8"></td>
+                                    <th>Explain</th>
+                                    <td> - </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> intended to placate </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> Some took a conciliatory approach to passengers, apologizing and trying to reunite travelers separated from their loved ones. </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="5"></td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -143,9 +192,18 @@
                                     <td> current </td>
                                     <td> - </td>
                                     <td> - </td>
+                                </tr>
+                                <tr>
+                                    <th>Explain</th>
                                     <td> - </td>
-                                    <td> - </td>
-                                    <td> - </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> - </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> - </td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -153,9 +211,18 @@
                                     <td> current </td>
                                     <td> -ly </td>
                                     <td> - </td>
+                                </tr>
+                                <tr>
+                                    <th>Explain</th>
                                     <td> - </td>
-                                    <td> overlapping in duration </td>
-                                    <td> And again, sun protective clothing is meant to work concurrently with a proper sunscreen regime. </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> overlapping in duration </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> And again, sun protective clothing is meant to work concurrently with a proper sunscreen regime. </td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -163,9 +230,18 @@
                                     <td> flate </td>
                                     <td> - </td>
                                     <td> - </td>
+                                </tr>
+                                <tr>
+                                    <th>Explain</th>
                                     <td> - </td>
-                                    <td> mix together different elements </td>
-                                    <td> And most critical to the current crisis, they do not conflate what happened to them last year with what is happening now. </td>
+                                </tr>                             
+                                <tr>
+                                    <th>Meanings</th>
+                                    <td colspan="4"> mix together different elements </td>
+                                </tr>                   
+                                <tr>
+                                    <th>Example sentences</th>
+                                    <td colspan="4"> And most critical to the current crisis, they do not conflate what happened to them last year with what is happening now. </td>
                                 </tr>
                                 <tr>
                                     <td> - </td>
