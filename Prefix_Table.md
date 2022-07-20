@@ -115,6 +115,13 @@
                                     <td colspan="5"></td>
                                 </tr>
                                 <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
+                                </tr>
+                                <tr>
                                     <td> - </td>
                                     <td> con- </td>
                                     <td> ciliation </td>
@@ -132,6 +139,16 @@
                                 <tr>
                                     <th>Example sentences</th>
                                     <td colspan="4"> - </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="5"></td>
+                                </tr>
+                                <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -153,6 +170,16 @@
                                     <td colspan="4"> - </td>
                                 </tr>
                                 <tr>
+                                    <td colspan="5"></td>
+                                </tr>
+                                <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
+                                </tr>
+                                <tr>
                                     <td> - </td>
                                     <td> con- </td>
                                     <td> ciliator </td>
@@ -170,6 +197,16 @@
                                 <tr>
                                     <th>Example sentences</th>
                                     <td colspan="4"> - </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="5"></td>
+                                </tr>
+                                <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -194,6 +231,13 @@
                                     <td colspan="5"></td>
                                 </tr>
                                 <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
+                                </tr>
+                                <tr>
                                     <td> - </td>
                                     <td> con- </td>
                                     <td> current </td>
@@ -211,6 +255,16 @@
                                 <tr>
                                     <th>Example sentences</th>
                                     <td colspan="4"> - </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="5"></td>
+                                </tr>
+                                <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -221,7 +275,7 @@
                                 </tr>
                                 <tr>
                                     <th>Explain</th>
-                                    <td> - </td>
+                                    <td colspan="4"> - </td>
                                 </tr>                             
                                 <tr>
                                     <th>Meanings</th>
@@ -230,6 +284,16 @@
                                 <tr>
                                     <th>Example sentences</th>
                                     <td colspan="4"> And again, sun protective clothing is meant to work concurrently with a proper sunscreen regime. </td>
+                                </tr>
+                                <tr>
+                                    <td colspan="5"></td>
+                                </tr>
+                                <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
@@ -254,6 +318,13 @@
                                     <td colspan="5"></td>
                                 </tr>
                                 <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
+                                </tr>
+                                <tr>
                                     <td> - </td>
                                     <td> con- </td>
                                     <td> formity </td>
@@ -274,6 +345,13 @@
                                 </tr>
                                 <tr>
                                     <td colspan="5"></td>
+                                </tr>
+                                <tr>
+                                    <th>Pre-Prefix</th>
+                                    <th>Prefix</th>
+                                    <th>Root</th>
+                                    <th>Suffix</th>
+                                    <th>Sub-Suffix</th>
                                 </tr>
                                 <tr>
                                     <td> - </td>
