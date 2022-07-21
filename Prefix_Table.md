@@ -929,6 +929,123 @@ easy to deal with </td>
                                 </table>
                             </details>
                         </li>
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>insipid</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> in- </td>
+                                        <td> sipid </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> Something insipid is dull, boring, and has no interesting features; for example, insipid food has no taste or little flavor. </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>ineluctable</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> in- </td>
+                                        <td> eluctable </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> Something that is ineluctable is impossible to avoid or escape, however much you try. </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
+                        <li>
+                            <details open>
+                                <summary>
+                                    <i><b><kbd>inexorable</kbd></b></i>
+                                </summary>
+                                <!-- <table cellspacing="5"> -->
+                                <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
+                                    <tr>
+                                        <th>Pre-Prefix</th>
+                                        <th>Prefix</th>
+                                        <th>Root</th>
+                                        <th>Suffix</th>
+                                        <th>Sub-Suffix</th>
+                                    </tr>
+                                    <tr>
+                                        <td> - </td>
+                                        <td> in- </td>
+                                        <td> exorable </td>
+                                        <td> - </td>
+                                        <td> - </td>
+                                    </tr>
+                                    <tr>
+                                        <th>Explain</th>
+                                        <td colspan="4"> The adjective inexorable describes a process that is impossible to stop once it has begun. </td>
+                                    </tr>                             
+                                    <tr>
+                                        <th>Meanings</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>                   
+                                    <tr>
+                                        <th>Example sentences</th>
+                                        <td colspan="4"> - </td>
+                                    </tr>
+                                    <tr>
+                                        <td colspan="5"></td>
+                                    </tr>
+                                </table>
+                            </details>
+                        </li>
                     </ol>
                 </details>
             </li>
