@@ -1322,7 +1322,7 @@ easy to deal with </td>
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>inexorable</kbd></b></i>
+                                    <i><b><kbd>intestate</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -1336,13 +1336,13 @@ easy to deal with </td>
                                     <tr>
                                         <td> - </td>
                                         <td> in- </td>
-                                        <td> exorable </td>
+                                        <td> testate </td>
                                         <td> - </td>
                                         <td> - </td>
                                     </tr>
                                     <tr>
                                         <th>Explain</th>
-                                        <td colspan="4"> The adjective inexorable describes a process that is impossible to stop once it has begun. </td>
+                                        <td colspan="4"> If you die intestate you die without having made a will or legal document that explains who gets your money and property. </td>
                                     </tr>                             
                                     <tr>
                                         <th>Meanings</th>
@@ -1361,7 +1361,7 @@ easy to deal with </td>
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>inexorable</kbd></b></i>
+                                    <i><b><kbd>incongruous</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -1375,13 +1375,13 @@ easy to deal with </td>
                                     <tr>
                                         <td> - </td>
                                         <td> in- </td>
-                                        <td> exorable </td>
+                                        <td> congruous </td>
                                         <td> - </td>
                                         <td> - </td>
                                     </tr>
                                     <tr>
                                         <th>Explain</th>
-                                        <td colspan="4"> The adjective inexorable describes a process that is impossible to stop once it has begun. </td>
+                                        <td colspan="4"> Something that is incongruous is strange when considered along with its group because it seems very different from the other things in its group. </td>
                                     </tr>                             
                                     <tr>
                                         <th>Meanings</th>
@@ -1400,7 +1400,7 @@ easy to deal with </td>
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>inexorable</kbd></b></i>
+                                    <i><b><kbd>indolent</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -1414,13 +1414,13 @@ easy to deal with </td>
                                     <tr>
                                         <td> - </td>
                                         <td> in- </td>
-                                        <td> exorable </td>
+                                        <td> dolent </td>
                                         <td> - </td>
                                         <td> - </td>
                                     </tr>
                                     <tr>
                                         <th>Explain</th>
-                                        <td colspan="4"> The adjective inexorable describes a process that is impossible to stop once it has begun. </td>
+                                        <td colspan="4"> An indolent person is lazy. </td>
                                     </tr>                             
                                     <tr>
                                         <th>Meanings</th>
@@ -1439,7 +1439,7 @@ easy to deal with </td>
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>inexorable</kbd></b></i>
+                                    <i><b><kbd>indefatigable</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -1453,13 +1453,13 @@ easy to deal with </td>
                                     <tr>
                                         <td> - </td>
                                         <td> in- </td>
-                                        <td> exorable </td>
+                                        <td> defatigable </td>
                                         <td> - </td>
                                         <td> - </td>
                                     </tr>
                                     <tr>
                                         <th>Explain</th>
-                                        <td colspan="4"> The adjective inexorable describes a process that is impossible to stop once it has begun. </td>
+                                        <td colspan="4"> If someone is indefatigable, they never show signs of getting tired. </td>
                                     </tr>                             
                                     <tr>
                                         <th>Meanings</th>
@@ -1478,7 +1478,7 @@ easy to deal with </td>
                         <li>
                             <details open>
                                 <summary>
-                                    <i><b><kbd>inexorable</kbd></b></i>
+                                    <i><b><kbd>incommensurate</kbd></b></i>
                                 </summary>
                                 <!-- <table cellspacing="5"> -->
                                 <table cellspacing="5" border="5" bordercolor="#8080cc" bordercolorlight="#8080c0" bordercolordark="#400080" bgcolor="#ffffcc">
@@ -1492,13 +1492,13 @@ easy to deal with </td>
                                     <tr>
                                         <td> - </td>
                                         <td> in- </td>
-                                        <td> exorable </td>
+                                        <td> commensurate </td>
                                         <td> - </td>
                                         <td> - </td>
                                     </tr>
                                     <tr>
                                         <th>Explain</th>
-                                        <td colspan="4"> The adjective inexorable describes a process that is impossible to stop once it has begun. </td>
+                                        <td colspan="4"> One thing that is incommensurate with another is different in its level, size, or quality from the second; this may lead to an unfair situation. </td>
                                     </tr>                             
                                     <tr>
                                         <th>Meanings</th>
