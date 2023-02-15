@@ -3,10 +3,10 @@
 ## Dictionary
   * <details open>
         <summary>
-            <i><b>✨ Web dictionary</b></i>
+            <i><b>✨ Web dictionaries</b></i>
         </summary>
         <ul style="disc">
-            <li><a id="use-of-finder-tags"></a>
+            <li><a id="web-dictionaries"></a>
                 <details open>
                     <summary>
                         ✨ Cambridge English Dictionary -> <a href="https://dictionary.cambridge.org/us/dictionary/english/">https://dictionary.cambridge.org/us/dictionary/english/</a> 
