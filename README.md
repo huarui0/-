@@ -15,11 +15,13 @@
                         <li>
                             <details open>
                                 <summary>
-                                    ✨ Content
+                                    ✨ Content directory
                                 </summary>
                                 <ol type="1">
-                                    <li></li>
-                                    <li></li>
+                                    <li><a href="https://dictionary.cambridge.org/us/dictionary/">Dictionary</a></li>
+                                    <li><a href="https://dictionary.cambridge.org/us/translate/">Translate</a></li>
+                                    <li><a href="https://dictionary.cambridge.org/us/grammar/british-grammar/">Grammar(british)</a></li>
+                                    <li><a href="https://dictionary.cambridge.org/us/thesaurus/">Thesaurus</a></li>
                                 </ol>
                             </details>
                         </li>
