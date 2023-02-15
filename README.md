@@ -1,62 +1,25 @@
 
-# 参考资源
-## 词典
+# Reference
+## Dictionary
   * <details open>
         <summary>
-            <i><b>✨ Finder 的 使用技巧<</b></i>
+            <i><b>✨ Web dictionary<</b></i>
         </summary>
         <ul style="disc">
             <li><a id="use-of-finder-tags"></a>
                 <details open>
                     <summary>
-                        ✨ ✨ ✨ Finder Tags 的 使用方法 和 技巧 👍
+                        ✨ Cambridge English Dictionary -> <a href="https://dictionary.cambridge.org/us/dictionary/english/">https://dictionary.cambridge.org/us/dictionary/english/</a> 
                     </summary>
                     <ul>
                         <li>
                             <details open>
                                 <summary>
-                                    ✨ 说明 - 标签的原理 和 使用 场景【技巧】
-                                </summary>
-                                <ul>
-                                    <li>
-                                        ✨ 标签，可以理解为虚拟文件夹
-                                    </li>
-                                    <li>
-                                        【重点】标签的使用， 实现了  文件夹或文件 与 标签 的 多对多关系，这样，就能 实现 组合 的 查询 与 归类，不用复制文件夹或文件
-                                    </li>
-                                    <li>比如
-                                        <ol type="1">
-                                            <li>设置一个标签：<b>最常访问</b></li>
-                                            <li>再设置一个标签：<b>✨ ✨ ✨ ✨ ✨</b></li>
-                                            <li>还可以再设置一个标签：<b>Python笔记</b></li>
-                                            <li>将上述标签，都显示在 左边 侧边栏</li>
-                                            <li>建一个文件夹：<b>Python开发笔记</b></li>
-                                            <li>将<kbd><b>Python开发笔记</b></kbd>这个文件夹，设置为上述三个标签</li>
-                                            <li>这样，点击左边侧边栏相应的标签，就能够，查到，对应的 文件或文件夹了</li>
-                                        </ol>
-                                    </li>
-                                </ul>
-                            </details>
-                        </li>
-                        <li>
-                            <details open>
-                                <summary>
-                                    ✨ 参考
-                                </summary>
-                                <ul>
-                                    <li>【优先】<a href="https://www.youtube.com/watch?v=T0Jj4lUm_p8">How to Add Tags in the Mac OS Finder</a></li>
-                                    <li><a href="https://macmyths.com/mac-custom-tag-colors/">How To Add More Custom Tag Colors On a Mac</a></li>
-                                </ul>
-                            </details>
-                        </li>
-                        <li>
-                            <details open>
-                                <summary>
-                                    ✨ 添加 Tag 的 方法
+                                    ✨ Content
                                 </summary>
                                 <ol type="1">
-                                    <li>通过 `Preference` 》 `Tags` 添加</li>
-                                    <li>新建文件，保存时，可以设置 Tags，这时 可以 添加 Tag</li>
+                                    <li></li>
+                                    <li></li>
                                 </ol>
                             </details>
                         </li>
