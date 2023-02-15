@@ -1,5 +1,5 @@
 
-# 英语参考资源
+# 参考资源
 ## 词根词缀查询
   * [Merriam-Webster](https://merriam-webster.com/dictionary)
     + 方法
