@@ -3,7 +3,7 @@
 ## Dictionary
   * <details open>
         <summary>
-            <i><b>✨ Web dictionary<</b></i>
+            <i><b>✨ Web dictionary</b></i>
         </summary>
         <ul style="disc">
             <li><a id="use-of-finder-tags"></a>
